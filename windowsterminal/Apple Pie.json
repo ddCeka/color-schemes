@@ -1,0 +1,23 @@
+{
+  "name": "Apple Pie",
+  "black": "#221f19",
+  "red": "#832921",
+  "green": "#366c1b",
+  "yellow": "#835521",
+  "blue": "#214583",
+  "purple": "#832149",
+  "cyan": "#1b6c51",
+  "white": "#5e513b",
+  "brightBlack": "#1a1713",
+  "brightRed": "#621f19",
+  "brightGreen": "#295114",
+  "brightYellow": "#624019",
+  "brightBlue": "#193462",
+  "brightPurple": "#621937",
+  "brightCyan": "#14513d",
+  "brightWhite": "#473d2c",
+  "background": "#f1dab6",
+  "foreground": "#30251f",
+  "cursorColor": "#835521",
+  "selectionBackground": "#214583"
+}

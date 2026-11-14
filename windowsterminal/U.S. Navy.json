@@ -1,0 +1,23 @@
+{
+  "name": "U.S. Navy",
+  "black": "#081c26",
+  "red": "#eb9c91",
+  "green": "#a6ccad",
+  "yellow": "#e6c475",
+  "blue": "#9cbce8",
+  "purple": "#c9acd6",
+  "cyan": "#85ccd0",
+  "white": "#c7d9dc",
+  "brightBlack": "#94acb4",
+  "brightRed": "#ffbcae",
+  "brightGreen": "#cbe5c7",
+  "brightYellow": "#ffe2a1",
+  "brightBlue": "#c5dcfa",
+  "brightPurple": "#e6c9ed",
+  "brightCyan": "#b5e8e6",
+  "brightWhite": "#fff7e4",
+  "background": "#03285c",
+  "foreground": "#e5eced",
+  "cursorColor": "#85ccd0",
+  "selectionBackground": "#fff7e4"
+}

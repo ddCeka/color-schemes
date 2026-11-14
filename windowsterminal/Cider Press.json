@@ -1,0 +1,23 @@
+{
+  "name": "Cider Press",
+  "black": "#a69889",
+  "red": "#d88765",
+  "green": "#a1d558",
+  "yellow": "#d5a758",
+  "blue": "#90b2e3",
+  "purple": "#dc74b9",
+  "cyan": "#7edfbe",
+  "white": "#dcd4c7",
+  "brightBlack": "#c1b7ac",
+  "brightRed": "#e4ab93",
+  "brightGreen": "#bde28a",
+  "brightYellow": "#e2c18a",
+  "brightBlue": "#b1c9eb",
+  "brightPurple": "#e79ece",
+  "brightCyan": "#a5e9d2",
+  "brightWhite": "#e7e1d8",
+  "background": "#3c2b16",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d5a758",
+  "selectionBackground": "#90b2e3"
+}

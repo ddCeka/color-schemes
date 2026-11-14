@@ -1,0 +1,23 @@
+{
+  "name": "Turkey Trot",
+  "black": "#b9afa3",
+  "red": "#dda29d",
+  "green": "#9fc964",
+  "yellow": "#ceac71",
+  "blue": "#91b4d9",
+  "purple": "#dd9dcd",
+  "cyan": "#64c9a7",
+  "white": "#dcd4c7",
+  "brightBlack": "#cec7bf",
+  "brightRed": "#e7beba",
+  "brightGreen": "#bcd993",
+  "brightYellow": "#ddc59c",
+  "brightBlue": "#b2cbe4",
+  "brightPurple": "#e7badc",
+  "brightCyan": "#93d9c1",
+  "brightWhite": "#e7e1d8",
+  "background": "#0e2922",
+  "foreground": "#f8ead5",
+  "cursorColor": "#ceac71",
+  "selectionBackground": "#91b4d9"
+}

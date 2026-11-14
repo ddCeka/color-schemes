@@ -1,0 +1,23 @@
+{
+  "name": "U.S. Army",
+  "black": "#1d251d",
+  "red": "#e7b9b1",
+  "green": "#baca95",
+  "yellow": "#e3c06f",
+  "blue": "#afc6d9",
+  "purple": "#d5bccf",
+  "cyan": "#a3ccbb",
+  "white": "#d1cdbb",
+  "brightBlack": "#c2c5b7",
+  "brightRed": "#f0b6a7",
+  "brightGreen": "#d0dda9",
+  "brightYellow": "#f9db94",
+  "brightBlue": "#bcd5ea",
+  "brightPurple": "#e0c0d4",
+  "brightCyan": "#bce2cd",
+  "brightWhite": "#fff5dc",
+  "background": "#4b5320",
+  "foreground": "#efe8d3",
+  "cursorColor": "#9bc8b5",
+  "selectionBackground": "#fff5dc"
+}

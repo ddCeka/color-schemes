@@ -1,0 +1,23 @@
+{
+  "name": "Butternut Squash",
+  "black": "#51483d",
+  "red": "#79422a",
+  "green": "#467127",
+  "yellow": "#775a29",
+  "blue": "#2a5279",
+  "purple": "#792a6c",
+  "cyan": "#28725f",
+  "white": "#5e513b",
+  "brightBlack": "#3d362e",
+  "brightRed": "#5b3220",
+  "brightGreen": "#35551d",
+  "brightYellow": "#59441f",
+  "brightBlue": "#203e5b",
+  "brightPurple": "#5b2051",
+  "brightCyan": "#1e5647",
+  "brightWhite": "#473d2c",
+  "background": "#f8e5ca",
+  "foreground": "#30251f",
+  "cursorColor": "#775a29",
+  "selectionBackground": "#2a5279"
+}

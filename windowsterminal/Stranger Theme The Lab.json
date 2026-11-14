@@ -1,0 +1,23 @@
+{
+  "name": "Stranger Theme The Lab",
+  "black": "#42454e",
+  "red": "#ff4136",
+  "green": "#2ecc40",
+  "yellow": "#ffdc00",
+  "blue": "#7fdbff",
+  "purple": "#b10dc9",
+  "cyan": "#39cccc",
+  "white": "#e0e5ec",
+  "brightBlack": "#73879c",
+  "brightRed": "#ff5f54",
+  "brightGreen": "#4cea5e",
+  "brightYellow": "#fffa1e",
+  "brightBlue": "#9df9ff",
+  "brightPurple": "#cf2be7",
+  "brightCyan": "#57eaea",
+  "brightWhite": "#ffffff",
+  "background": "#1a1d26",
+  "foreground": "#e0e5ec",
+  "cursorColor": "#e0e5ec",
+  "selectionBackground": "#3c3f48"
+}

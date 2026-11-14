@@ -1,0 +1,23 @@
+{
+  "name": "Maple Glaze",
+  "black": "#a09181",
+  "red": "#d88164",
+  "green": "#96d558",
+  "yellow": "#d5a758",
+  "blue": "#85b2e0",
+  "purple": "#d968b3",
+  "cyan": "#73dcc2",
+  "white": "#dcd4c7",
+  "brightBlack": "#bdb2a7",
+  "brightRed": "#e4a793",
+  "brightGreen": "#b6e28a",
+  "brightYellow": "#e2c18a",
+  "brightBlue": "#aac9e9",
+  "brightPurple": "#e495ca",
+  "brightCyan": "#9de7d4",
+  "brightWhite": "#e7e1d8",
+  "background": "#38221b",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d5a758",
+  "selectionBackground": "#85b2e0"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pilgrim Linen",
+  "black": "#51483d",
+  "red": "#7e2634",
+  "green": "#397824",
+  "yellow": "#795925",
+  "blue": "#26437e",
+  "purple": "#7e266f",
+  "cyan": "#247762",
+  "white": "#5e513b",
+  "brightBlack": "#3d362e",
+  "brightRed": "#5f1d27",
+  "brightGreen": "#2b5a1b",
+  "brightYellow": "#5b431c",
+  "brightBlue": "#1d325f",
+  "brightPurple": "#5f1d53",
+  "brightCyan": "#1b594a",
+  "brightWhite": "#473d2c",
+  "background": "#f4efe1",
+  "foreground": "#30251f",
+  "cursorColor": "#795925",
+  "selectionBackground": "#26437e"
+}

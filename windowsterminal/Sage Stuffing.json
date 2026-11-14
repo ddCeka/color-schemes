@@ -1,0 +1,23 @@
+{
+  "name": "Sage Stuffing",
+  "black": "#a69989",
+  "red": "#da906b",
+  "green": "#91d760",
+  "yellow": "#d5ab58",
+  "blue": "#7fa7df",
+  "purple": "#dc74c2",
+  "cyan": "#69d9bd",
+  "white": "#dcd4c7",
+  "brightBlack": "#c1b8ac",
+  "brightRed": "#e5b197",
+  "brightGreen": "#b2e390",
+  "brightYellow": "#e2c48a",
+  "brightBlue": "#a5c1e9",
+  "brightPurple": "#e79ed4",
+  "brightCyan": "#96e4d1",
+  "brightWhite": "#e7e1d8",
+  "background": "#24322a",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d5ab58",
+  "selectionBackground": "#7fa7df"
+}

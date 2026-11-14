@@ -1,0 +1,23 @@
+{
+  "name": "Gravy",
+  "black": "#4b3d35",
+  "red": "#d27967",
+  "green": "#a0cf5e",
+  "yellow": "#cfa65e",
+  "blue": "#5e9acf",
+  "purple": "#d470aa",
+  "cyan": "#5ecfa9",
+  "white": "#dcd4c7",
+  "brightBlack": "#98908b",
+  "brightRed": "#e0a195",
+  "brightGreen": "#bddd8e",
+  "brightYellow": "#ddc18e",
+  "brightBlue": "#8eb8dd",
+  "brightPurple": "#e19bc4",
+  "brightCyan": "#8eddc3",
+  "brightWhite": "#e7e1d8",
+  "background": "#35251c",
+  "foreground": "#f8ead5",
+  "cursorColor": "#cfa65e",
+  "selectionBackground": "#5e9acf"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "🇺🇸 U.S. Coast Guard",
+  "black": "#172b3a",
+  "red": "#b42d35",
+  "green": "#37654c",
+  "yellow": "#8c541b",
+  "blue": "#145b90",
+  "purple": "#794a83",
+  "cyan": "#17666d",
+  "white": "#4a6375",
+  "brightBlack": "#63737b",
+  "brightRed": "#8c1926",
+  "brightGreen": "#254b37",
+  "brightYellow": "#6b3c0c",
+  "brightBlue": "#06416d",
+  "brightPurple": "#5d3268",
+  "brightCyan": "#0a4950",
+  "brightWhite": "#092b40",
+  "background": "#f7fafc",
+  "foreground": "#183a50",
+  "cursorColor": "#17666d",
+  "selectionBackground": "#092b40"
+}

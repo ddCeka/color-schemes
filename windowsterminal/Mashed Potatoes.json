@@ -1,0 +1,23 @@
+{
+  "name": "Mashed Potatoes",
+  "black": "#242321",
+  "red": "#832921",
+  "green": "#388020",
+  "yellow": "#836521",
+  "blue": "#214983",
+  "purple": "#832162",
+  "cyan": "#207f67",
+  "white": "#5e513b",
+  "brightBlack": "#1b1a19",
+  "brightRed": "#621f19",
+  "brightGreen": "#2a6018",
+  "brightYellow": "#624c19",
+  "brightBlue": "#193762",
+  "brightPurple": "#62194a",
+  "brightCyan": "#185f4d",
+  "brightWhite": "#473d2c",
+  "background": "#fff9eb",
+  "foreground": "#30251f",
+  "cursorColor": "#836521",
+  "selectionBackground": "#214983"
+}

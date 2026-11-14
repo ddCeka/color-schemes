@@ -1,0 +1,23 @@
+{
+  "name": "Pecan Pie",
+  "black": "#b0a496",
+  "red": "#df927f",
+  "green": "#92d558",
+  "yellow": "#d5a158",
+  "blue": "#6bacda",
+  "purple": "#e28abd",
+  "cyan": "#58d5ab",
+  "white": "#dcd4c7",
+  "brightBlack": "#c8bfb6",
+  "brightRed": "#e9b3a5",
+  "brightGreen": "#b3e28a",
+  "brightYellow": "#e2bd8a",
+  "brightBlue": "#97c5e5",
+  "brightPurple": "#ebadd1",
+  "brightCyan": "#8ae2c4",
+  "brightWhite": "#e7e1d8",
+  "background": "#21170e",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d5a158",
+  "selectionBackground": "#6bacda"
+}

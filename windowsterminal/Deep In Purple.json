@@ -1,0 +1,23 @@
+{
+  "name": "Deep In Purple",
+  "black": "#392968",
+  "red": "#ef819b",
+  "green": "#a9cb8d",
+  "yellow": "#e6ba6f",
+  "blue": "#a5a5f4",
+  "purple": "#d88de4",
+  "cyan": "#88ccc5",
+  "white": "#d1badb",
+  "brightBlack": "#a295c6",
+  "brightRed": "#ffa8b9",
+  "brightGreen": "#c6e4aa",
+  "brightYellow": "#ffdb91",
+  "brightBlue": "#c6c1ff",
+  "brightPurple": "#f3b0f6",
+  "brightCyan": "#abe7df",
+  "brightWhite": "#fff4ec",
+  "background": "#241650",
+  "foreground": "#ebdff0",
+  "cursorColor": "#88ccc5",
+  "selectionBackground": "#514080"
+}

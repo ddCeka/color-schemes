@@ -1,0 +1,23 @@
+{
+  "name": "Nudisia",
+  "black": "#29222b",
+  "red": "#a23d47",
+  "green": "#52652b",
+  "yellow": "#855619",
+  "blue": "#46538d",
+  "purple": "#79416f",
+  "cyan": "#276867",
+  "white": "#61504a",
+  "brightBlack": "#776766",
+  "brightRed": "#792635",
+  "brightGreen": "#394b19",
+  "brightYellow": "#643b12",
+  "brightBlue": "#303d73",
+  "brightPurple": "#602c56",
+  "brightCyan": "#184e50",
+  "brightWhite": "#282129",
+  "background": "#f7efe6",
+  "foreground": "#382d31",
+  "cursorColor": "#276867",
+  "selectionBackground": "#664357"
+}

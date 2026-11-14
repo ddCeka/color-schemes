@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Harbor Dark",
+  "black": "#111523",
+  "red": "#d0756c",
+  "green": "#9bd8b4",
+  "yellow": "#eace8c",
+  "blue": "#91c5ea",
+  "purple": "#d3a9dd",
+  "cyan": "#91cfd6",
+  "white": "#bdc1ca",
+  "brightBlack": "#808599",
+  "brightRed": "#de968e",
+  "brightGreen": "#b9f1d0",
+  "brightYellow": "#ffe5a9",
+  "brightBlue": "#b1deff",
+  "brightPurple": "#ebc4f5",
+  "brightCyan": "#aae9f0",
+  "brightWhite": "#dde1eb",
+  "background": "#0d111d",
+  "foreground": "#dde1eb",
+  "cursorColor": "#dde1eb",
+  "selectionBackground": "#423139"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Blue Ribbon Turkey",
+  "black": "#afa396",
+  "red": "#d99e80",
+  "green": "#abd571",
+  "yellow": "#d5b371",
+  "blue": "#779ed6",
+  "purple": "#d571bc",
+  "cyan": "#62d0b5",
+  "white": "#dcd4c7",
+  "brightBlack": "#c7bfb6",
+  "brightRed": "#e4bba6",
+  "brightGreen": "#c4e29c",
+  "brightYellow": "#e2ca9c",
+  "brightBlue": "#a0bbe2",
+  "brightPurple": "#e29cd0",
+  "brightCyan": "#91decb",
+  "brightWhite": "#e7e1d8",
+  "background": "#172c46",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d5b371",
+  "selectionBackground": "#779ed6"
+}

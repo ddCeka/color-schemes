@@ -1,0 +1,23 @@
+{
+  "name": "Green Bean Casserole",
+  "black": "#ab9e90",
+  "red": "#d2937f",
+  "green": "#93cf74",
+  "yellow": "#cdad6e",
+  "blue": "#7ea1d2",
+  "purple": "#d484c6",
+  "cyan": "#6bcbb3",
+  "white": "#dcd4c7",
+  "brightBlack": "#c4bbb1",
+  "brightRed": "#e0b3a5",
+  "brightGreen": "#b3dd9e",
+  "brightYellow": "#dcc69a",
+  "brightBlue": "#a5bde0",
+  "brightPurple": "#e1a9d7",
+  "brightCyan": "#97dbca",
+  "brightWhite": "#e7e1d8",
+  "background": "#193a32",
+  "foreground": "#f8ead5",
+  "cursorColor": "#cdad6e",
+  "selectionBackground": "#7ea1d2"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Dusk Dark",
+  "black": "#1f1c2b",
+  "red": "#d0746c",
+  "green": "#a0d1a9",
+  "yellow": "#efcb7b",
+  "blue": "#9bbef2",
+  "purple": "#e1b0dc",
+  "cyan": "#90cfd7",
+  "white": "#c0bcc9",
+  "brightBlack": "#8a8499",
+  "brightRed": "#de958d",
+  "brightGreen": "#b9ecc2",
+  "brightYellow": "#ffe5ad",
+  "brightBlue": "#bdd8ff",
+  "brightPurple": "#fcc9f7",
+  "brightCyan": "#a9e9f2",
+  "brightWhite": "#e0dcea",
+  "background": "#1a1825",
+  "foreground": "#e0dcea",
+  "cursorColor": "#e0dcea",
+  "selectionBackground": "#4c373f"
+}

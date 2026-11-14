@@ -1,0 +1,23 @@
+{
+  "name": "Pilgrim Hat",
+  "black": "#313239",
+  "red": "#d06161",
+  "green": "#7acf5e",
+  "yellow": "#cfad5e",
+  "blue": "#6182d0",
+  "purple": "#cf5ebc",
+  "cyan": "#5ecfb3",
+  "white": "#dcd4c7",
+  "brightBlack": "#838487",
+  "brightRed": "#de9090",
+  "brightGreen": "#a2dd8e",
+  "brightYellow": "#ddc68e",
+  "brightBlue": "#90a8de",
+  "brightPurple": "#dd8ed0",
+  "brightCyan": "#8eddca",
+  "brightWhite": "#e7e1d8",
+  "background": "#171920",
+  "foreground": "#f8ead5",
+  "cursorColor": "#cfad5e",
+  "selectionBackground": "#6182d0"
+}

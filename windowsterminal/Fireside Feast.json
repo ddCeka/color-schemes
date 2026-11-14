@@ -1,0 +1,23 @@
+{
+  "name": "Fireside Feast",
+  "black": "#b1a597",
+  "red": "#d69888",
+  "green": "#9fc964",
+  "yellow": "#c9a464",
+  "blue": "#81aad3",
+  "purple": "#d890c0",
+  "cyan": "#64c9b0",
+  "white": "#dcd4c7",
+  "brightBlack": "#c8c0b6",
+  "brightRed": "#e2b7ac",
+  "brightGreen": "#bcd993",
+  "brightYellow": "#d9bf93",
+  "brightBlue": "#a7c4e0",
+  "brightPurple": "#e4b1d3",
+  "brightCyan": "#93d9c8",
+  "brightWhite": "#e7e1d8",
+  "background": "#2d1210",
+  "foreground": "#f8ead5",
+  "cursorColor": "#c9a464",
+  "selectionBackground": "#81aad3"
+}

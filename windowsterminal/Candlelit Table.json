@@ -1,0 +1,23 @@
+{
+  "name": "Candlelit Table",
+  "black": "#b1a597",
+  "red": "#e39096",
+  "green": "#9bd558",
+  "yellow": "#d5ab58",
+  "blue": "#7caade",
+  "purple": "#e28ac4",
+  "cyan": "#58d5b6",
+  "white": "#dcd4c7",
+  "brightBlack": "#c8c0b6",
+  "brightRed": "#ebb1b6",
+  "brightGreen": "#b9e28a",
+  "brightYellow": "#e2c48a",
+  "brightBlue": "#a3c4e8",
+  "brightPurple": "#ebadd6",
+  "brightCyan": "#8ae2cc",
+  "brightWhite": "#e7e1d8",
+  "background": "#251522",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d5ab58",
+  "selectionBackground": "#7caade"
+}

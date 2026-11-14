@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Rayleigh Dark",
+  "black": "#0b2237",
+  "red": "#d96d65",
+  "green": "#96d2a2",
+  "yellow": "#f1cc79",
+  "blue": "#6fc3ff",
+  "purple": "#eea3c9",
+  "cyan": "#afdee6",
+  "white": "#b4bfca",
+  "brightBlack": "#849bb4",
+  "brightRed": "#e59088",
+  "brightGreen": "#aeedbb",
+  "brightYellow": "#ffe5ad",
+  "brightBlue": "#aadaff",
+  "brightPurple": "#ffc3e0",
+  "brightCyan": "#b6f4ff",
+  "brightWhite": "#d4dfeb",
+  "background": "#091d30",
+  "foreground": "#d4dfeb",
+  "cursorColor": "#d4dfeb",
+  "selectionBackground": "#204360"
+}

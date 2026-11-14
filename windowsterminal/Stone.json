@@ -1,0 +1,23 @@
+{
+  "name": "Stone",
+  "black": "#191c1a",
+  "red": "#c29b91",
+  "green": "#aeb59a",
+  "yellow": "#c3b38d",
+  "blue": "#9fafb9",
+  "purple": "#b3a2ae",
+  "cyan": "#9fb5ae",
+  "white": "#c6c5bd",
+  "brightBlack": "#979b94",
+  "brightRed": "#d1ada3",
+  "brightGreen": "#c1c7ac",
+  "brightYellow": "#d4c5a1",
+  "brightBlue": "#b3c1ca",
+  "brightPurple": "#c4b4bf",
+  "brightCyan": "#b2c8c0",
+  "brightWhite": "#eceae3",
+  "background": "#4e4f4e",
+  "foreground": "#dedcd5",
+  "cursorColor": "#d8d3c4",
+  "selectionBackground": "#b6b8aa"
+}

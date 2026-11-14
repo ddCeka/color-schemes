@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Cherenkov Dark",
+  "black": "#031530",
+  "red": "#db6c64",
+  "green": "#9ad8a6",
+  "yellow": "#ead293",
+  "blue": "#4ca1ff",
+  "purple": "#ecafe6",
+  "cyan": "#8fe7fd",
+  "white": "#b7c6d4",
+  "brightBlack": "#738fad",
+  "brightRed": "#e79088",
+  "brightGreen": "#b2f3bf",
+  "brightYellow": "#ffe6a4",
+  "brightBlue": "#90bbee",
+  "brightPurple": "#ffcefa",
+  "brightCyan": "#bff2ff",
+  "brightWhite": "#d7e7f5",
+  "background": "#021129",
+  "foreground": "#d7e7f5",
+  "cursorColor": "#d7e7f5",
+  "selectionBackground": "#10325a"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "First Frost",
+  "black": "#51483d",
+  "red": "#832131",
+  "green": "#235d18",
+  "yellow": "#694c1b",
+  "blue": "#214983",
+  "purple": "#832183",
+  "cyan": "#175b50",
+  "white": "#5c4f3a",
+  "brightBlack": "#3d362e",
+  "brightRed": "#621925",
+  "brightGreen": "#1a4612",
+  "brightYellow": "#4f3914",
+  "brightBlue": "#193762",
+  "brightPurple": "#621962",
+  "brightCyan": "#11443c",
+  "brightWhite": "#453b2c",
+  "background": "#edf5f4",
+  "foreground": "#30251f",
+  "cursorColor": "#694c1b",
+  "selectionBackground": "#214983"
+}

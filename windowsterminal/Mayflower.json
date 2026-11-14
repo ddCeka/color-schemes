@@ -1,0 +1,23 @@
+{
+  "name": "Mayflower",
+  "black": "#314959",
+  "red": "#d98468",
+  "green": "#8cd558",
+  "yellow": "#d5ab58",
+  "blue": "#58a1d5",
+  "purple": "#dd77ba",
+  "cyan": "#58d5c0",
+  "white": "#dcd4c7",
+  "brightBlack": "#8f9ca4",
+  "brightRed": "#e4a995",
+  "brightGreen": "#afe28a",
+  "brightYellow": "#e2c48a",
+  "brightBlue": "#8abde2",
+  "brightPurple": "#e7a0cf",
+  "brightCyan": "#8ae2d3",
+  "brightWhite": "#e7e1d8",
+  "background": "#173344",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d5ab58",
+  "selectionBackground": "#58a1d5"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "KIZZ",
+  "black": "#292723",
+  "red": "#e9685b",
+  "green": "#91b85c",
+  "yellow": "#c6aa75",
+  "blue": "#8babc0",
+  "purple": "#b59bbc",
+  "cyan": "#93b9ae",
+  "white": "#d4d1c8",
+  "brightBlack": "#77736f",
+  "brightRed": "#ff8373",
+  "brightGreen": "#a9cf73",
+  "brightYellow": "#e2c490",
+  "brightBlue": "#a5c4da",
+  "brightPurple": "#cfb2d4",
+  "brightCyan": "#b0d5c9",
+  "brightWhite": "#faf7ec",
+  "background": "#141412",
+  "foreground": "#eeebdd",
+  "cursorColor": "#e9685b",
+  "selectionBackground": "#45433e"
+}

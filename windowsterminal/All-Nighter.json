@@ -1,0 +1,23 @@
+{
+  "name": "All-Nighter",
+  "black": "#302d38",
+  "red": "#cc9293",
+  "green": "#a2b693",
+  "yellow": "#c8ad82",
+  "blue": "#9daaca",
+  "purple": "#b6a0c5",
+  "cyan": "#94b8b2",
+  "white": "#bab8b2",
+  "brightBlack": "#918a9a",
+  "brightRed": "#e0acab",
+  "brightGreen": "#b9caa9",
+  "brightYellow": "#ddc49b",
+  "brightBlue": "#b6c1df",
+  "brightPurple": "#ccb8d8",
+  "brightCyan": "#afcfc8",
+  "brightWhite": "#e4dfd3",
+  "background": "#1e1c24",
+  "foreground": "#cbc7bd",
+  "cursorColor": "#94b8b2",
+  "selectionBackground": "#46404f"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Corn",
+  "black": "#231f13",
+  "red": "#793e2a",
+  "green": "#4d6a25",
+  "yellow": "#795c2a",
+  "blue": "#2a4279",
+  "purple": "#792a76",
+  "cyan": "#266d4f",
+  "white": "#5e513b",
+  "brightBlack": "#1a170e",
+  "brightRed": "#5b2f20",
+  "brightGreen": "#3a501c",
+  "brightYellow": "#5b4520",
+  "brightBlue": "#20325b",
+  "brightPurple": "#5b2059",
+  "brightCyan": "#1d523b",
+  "brightWhite": "#473d2c",
+  "background": "#f8df86",
+  "foreground": "#30251f",
+  "cursorColor": "#795c2a",
+  "selectionBackground": "#2a4279"
+}

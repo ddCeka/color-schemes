@@ -1,0 +1,23 @@
+{
+  "name": "Roast Turkey",
+  "black": "#443934",
+  "red": "#c97864",
+  "green": "#a7c964",
+  "yellow": "#c9a764",
+  "blue": "#649fc9",
+  "purple": "#cc6da4",
+  "cyan": "#64c9b0",
+  "white": "#dcd4c7",
+  "brightBlack": "#928b88",
+  "brightRed": "#d9a193",
+  "brightGreen": "#c1d993",
+  "brightYellow": "#d9c193",
+  "brightBlue": "#93bcd9",
+  "brightPurple": "#db99bf",
+  "brightCyan": "#93d9c8",
+  "brightWhite": "#e7e1d8",
+  "background": "#2d211b",
+  "foreground": "#f8ead5",
+  "cursorColor": "#c9a764",
+  "selectionBackground": "#649fc9"
+}

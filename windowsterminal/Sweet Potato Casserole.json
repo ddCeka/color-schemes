@@ -1,0 +1,23 @@
+{
+  "name": "Sweet Potato Casserole",
+  "black": "#5f3e4a",
+  "red": "#cc8d6d",
+  "green": "#96c964",
+  "yellow": "#c9a764",
+  "blue": "#759fcf",
+  "purple": "#d482ab",
+  "cyan": "#64c9b0",
+  "white": "#dcd4c7",
+  "brightBlack": "#a8979d",
+  "brightRed": "#dbaf99",
+  "brightGreen": "#b6d993",
+  "brightYellow": "#d9c193",
+  "brightBlue": "#9ebcdd",
+  "brightPurple": "#e1a8c4",
+  "brightCyan": "#93d9c8",
+  "brightWhite": "#e7e1d8",
+  "background": "#4b2634",
+  "foreground": "#f8ead5",
+  "cursorColor": "#c9a764",
+  "selectionBackground": "#759fcf"
+}

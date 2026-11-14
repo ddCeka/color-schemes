@@ -1,0 +1,23 @@
+{
+  "name": "Pumpkin Pie",
+  "black": "#5c4038",
+  "red": "#d28868",
+  "green": "#9acf5e",
+  "yellow": "#cfa65e",
+  "blue": "#6a9ed3",
+  "purple": "#d87cb2",
+  "cyan": "#5ecfb3",
+  "white": "#dcd4c7",
+  "brightBlack": "#a69793",
+  "brightRed": "#e0ac95",
+  "brightGreen": "#b8dd8e",
+  "brightYellow": "#ddc18e",
+  "brightBlue": "#97bbe0",
+  "brightPurple": "#e4a3c9",
+  "brightCyan": "#8eddca",
+  "brightWhite": "#e7e1d8",
+  "background": "#48281f",
+  "foreground": "#f8ead5",
+  "cursorColor": "#cfa65e",
+  "selectionBackground": "#6a9ed3"
+}

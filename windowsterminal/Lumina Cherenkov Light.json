@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Cherenkov Light",
+  "black": "#1f2e53",
+  "red": "#a32224",
+  "green": "#227a3e",
+  "yellow": "#a35f00",
+  "blue": "#0a4fcc",
+  "purple": "#90478a",
+  "cyan": "#087181",
+  "white": "#5e709b",
+  "brightBlack": "#5b6b89",
+  "brightRed": "#792825",
+  "brightGreen": "#07652c",
+  "brightYellow": "#874e00",
+  "brightBlue": "#1d448f",
+  "brightPurple": "#793474",
+  "brightCyan": "#005c69",
+  "brightWhite": "#7c90bc",
+  "background": "#f5f8ff",
+  "foreground": "#1f2e53",
+  "cursorColor": "#1f2e53",
+  "selectionBackground": "#b3d0f4"
+}

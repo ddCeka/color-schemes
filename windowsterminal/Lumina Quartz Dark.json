@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Quartz Dark",
+  "black": "#1a1c1e",
+  "red": "#c57c74",
+  "green": "#9dd7b7",
+  "yellow": "#dfcfb0",
+  "blue": "#b6ceed",
+  "purple": "#e4bddf",
+  "cyan": "#a8d5db",
+  "white": "#acb0b3",
+  "brightBlack": "#868b90",
+  "brightRed": "#d59a93",
+  "brightGreen": "#c2edd5",
+  "brightYellow": "#ffe5b1",
+  "brightBlue": "#d6e8ff",
+  "brightPurple": "#ffd7fa",
+  "brightCyan": "#c1eff6",
+  "brightWhite": "#ccd0d3",
+  "background": "#161719",
+  "foreground": "#ccd0d3",
+  "cursorColor": "#ccd0d3",
+  "selectionBackground": "#44474a"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cranberry Sauce",
+  "black": "#632b46",
+  "red": "#d17a88",
+  "green": "#8ec964",
+  "yellow": "#c99f64",
+  "blue": "#7493cf",
+  "purple": "#cf74b8",
+  "cyan": "#64c9b0",
+  "white": "#dcd4c7",
+  "brightBlack": "#aa8b9a",
+  "brightRed": "#dfa2ac",
+  "brightGreen": "#b0d993",
+  "brightYellow": "#d9bc93",
+  "brightBlue": "#9eb3dd",
+  "brightPurple": "#dd9ecd",
+  "brightCyan": "#93d9c8",
+  "brightWhite": "#e7e1d8",
+  "background": "#50112f",
+  "foreground": "#f8ead5",
+  "cursorColor": "#c99f64",
+  "selectionBackground": "#7493cf"
+}

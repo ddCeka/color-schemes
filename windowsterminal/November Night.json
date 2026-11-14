@@ -1,0 +1,23 @@
+{
+  "name": "November Night",
+  "black": "#b3a79a",
+  "red": "#da9983",
+  "green": "#96cf5e",
+  "yellow": "#cfa95e",
+  "blue": "#81add9",
+  "purple": "#dd8ed0",
+  "cyan": "#5ecfb3",
+  "white": "#dcd4c7",
+  "brightBlack": "#cac1b8",
+  "brightRed": "#e5b8a8",
+  "brightGreen": "#b6dd8e",
+  "brightYellow": "#ddc38e",
+  "brightBlue": "#a7c6e4",
+  "brightPurple": "#e7b0de",
+  "brightCyan": "#8eddca",
+  "brightWhite": "#e7e1d8",
+  "background": "#101c32",
+  "foreground": "#f8ead5",
+  "cursorColor": "#cfa95e",
+  "selectionBackground": "#81add9"
+}

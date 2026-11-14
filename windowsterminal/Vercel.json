@@ -1,0 +1,23 @@
+{
+  "name": "Vercel",
+  "black": "#1a1a1a",
+  "red": "#e5484d",
+  "green": "#63c174",
+  "yellow": "#f1a10d",
+  "blue": "#52a9ff",
+  "purple": "#bf7af0",
+  "cyan": "#0ac5b3",
+  "white": "#a0a0a0",
+  "brightBlack": "#8f8f8f",
+  "brightRed": "#fe7573",
+  "brightGreen": "#83e293",
+  "brightYellow": "#ffc983",
+  "brightBlue": "#97c9fe",
+  "brightPurple": "#d7a4ff",
+  "brightCyan": "#4be6d3",
+  "brightWhite": "#ffffff",
+  "background": "#000000",
+  "foreground": "#ededed",
+  "cursorColor": "#ededed",
+  "selectionBackground": "#2e2e2e"
+}

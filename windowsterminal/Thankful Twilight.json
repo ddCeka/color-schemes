@@ -1,0 +1,23 @@
+{
+  "name": "Thankful Twilight",
+  "black": "#ada193",
+  "red": "#de987a",
+  "green": "#9bda6e",
+  "yellow": "#d9b367",
+  "blue": "#89aee1",
+  "purple": "#da6db6",
+  "cyan": "#74dcc2",
+  "white": "#dcd4c7",
+  "brightBlack": "#c6bdb3",
+  "brightRed": "#e8b7a2",
+  "brightGreen": "#b9e59a",
+  "brightYellow": "#e4ca95",
+  "brightBlue": "#acc6ea",
+  "brightPurple": "#e599cc",
+  "brightCyan": "#9ee7d4",
+  "brightWhite": "#e7e1d8",
+  "background": "#35233f",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d9b367",
+  "selectionBackground": "#89aee1"
+}

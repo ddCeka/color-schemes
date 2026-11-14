@@ -1,0 +1,23 @@
+{
+  "name": "Autumn Quilt",
+  "black": "#b2a699",
+  "red": "#d79e8b",
+  "green": "#9cd380",
+  "yellow": "#d0b779",
+  "blue": "#90a9d8",
+  "purple": "#d17cbc",
+  "cyan": "#7fd2be",
+  "white": "#dcd4c7",
+  "brightBlack": "#c9c1b8",
+  "brightRed": "#e3bbae",
+  "brightGreen": "#bae0a6",
+  "brightYellow": "#decda1",
+  "brightBlue": "#b1c3e4",
+  "brightPurple": "#dfa3d0",
+  "brightCyan": "#a5e0d2",
+  "brightWhite": "#e7e1d8",
+  "background": "#352a45",
+  "foreground": "#f8ead5",
+  "cursorColor": "#d0b779",
+  "selectionBackground": "#90a9d8"
+}

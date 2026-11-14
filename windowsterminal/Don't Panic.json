@@ -1,0 +1,23 @@
+{
+  "name": "Don't Panic",
+  "black": "#23314b",
+  "red": "#f18d87",
+  "green": "#add867",
+  "yellow": "#eacb64",
+  "blue": "#83adf0",
+  "purple": "#df95ce",
+  "cyan": "#72ccc0",
+  "white": "#becfc6",
+  "brightBlack": "#8293ab",
+  "brightRed": "#ffb1a1",
+  "brightGreen": "#cdf68c",
+  "brightYellow": "#ffe598",
+  "brightBlue": "#b0ccff",
+  "brightPurple": "#f6b8e5",
+  "brightCyan": "#a0eadb",
+  "brightWhite": "#f1f5db",
+  "background": "#0d1930",
+  "foreground": "#d2e7c7",
+  "cursorColor": "#72ccc0",
+  "selectionBackground": "#34506a"
+}

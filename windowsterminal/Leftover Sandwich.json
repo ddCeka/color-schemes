@@ -1,0 +1,23 @@
+{
+  "name": "Leftover Sandwich",
+  "black": "#51483d",
+  "red": "#7e2634",
+  "green": "#3e7423",
+  "yellow": "#785924",
+  "blue": "#264a7e",
+  "purple": "#7e2668",
+  "cyan": "#23735f",
+  "white": "#5e513b",
+  "brightBlack": "#3d362e",
+  "brightRed": "#5f1d27",
+  "brightGreen": "#2f571a",
+  "brightYellow": "#5a431b",
+  "brightBlue": "#1d385f",
+  "brightPurple": "#5f1d4e",
+  "brightCyan": "#1a5647",
+  "brightWhite": "#473d2c",
+  "background": "#f6e8cf",
+  "foreground": "#30251f",
+  "cursorColor": "#785924",
+  "selectionBackground": "#264a7e"
+}

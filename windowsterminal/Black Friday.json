@@ -1,0 +1,23 @@
+{
+  "name": "Black Friday",
+  "black": "#a79a8a",
+  "red": "#d5868d",
+  "green": "#86c964",
+  "yellow": "#c9b064",
+  "blue": "#7a9ed1",
+  "purple": "#d27fcb",
+  "cyan": "#64c9b0",
+  "white": "#dcd4c7",
+  "brightBlack": "#c1b8ad",
+  "brightRed": "#e2aaaf",
+  "brightGreen": "#aad993",
+  "brightYellow": "#d9c893",
+  "brightBlue": "#a2bbdf",
+  "brightPurple": "#e0a5db",
+  "brightCyan": "#93d9c8",
+  "brightWhite": "#e7e1d8",
+  "background": "#090b0d",
+  "foreground": "#f8ead5",
+  "cursorColor": "#c9b064",
+  "selectionBackground": "#7a9ed1"
+}

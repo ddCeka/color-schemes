@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Nebula Dark",
+  "black": "#1a1c2c",
+  "red": "#d57068",
+  "green": "#8fdcba",
+  "yellow": "#f3c085",
+  "blue": "#c6d6e8",
+  "purple": "#e5aedf",
+  "cyan": "#88d2da",
+  "white": "#bdc1cb",
+  "brightBlack": "#838ba5",
+  "brightRed": "#e2928a",
+  "brightGreen": "#b0f5d5",
+  "brightYellow": "#ffdfba",
+  "brightBlue": "#d8eaff",
+  "brightPurple": "#ffc8f9",
+  "brightCyan": "#a1ecf5",
+  "brightWhite": "#dde1ec",
+  "background": "#161826",
+  "foreground": "#dde1ec",
+  "cursorColor": "#dde1ec",
+  "selectionBackground": "#393856"
+}

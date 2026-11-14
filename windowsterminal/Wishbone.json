@@ -1,0 +1,23 @@
+{
+  "name": "Wishbone",
+  "black": "#51483d",
+  "red": "#7e3126",
+  "green": "#33601d",
+  "yellow": "#6d5121",
+  "blue": "#26437e",
+  "purple": "#7e266f",
+  "cyan": "#1d6054",
+  "white": "#5e513b",
+  "brightBlack": "#3d362e",
+  "brightRed": "#5f251d",
+  "brightGreen": "#264816",
+  "brightYellow": "#523d19",
+  "brightBlue": "#1d325f",
+  "brightPurple": "#5f1d53",
+  "brightCyan": "#16483f",
+  "brightWhite": "#473d2c",
+  "background": "#fffcee",
+  "foreground": "#30251f",
+  "cursorColor": "#6d5121",
+  "selectionBackground": "#26437e"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cornucopia",
+  "black": "#b1a698",
+  "red": "#dc9688",
+  "green": "#96cf5e",
+  "yellow": "#cfaf5e",
+  "blue": "#8ba9dd",
+  "purple": "#dc8bdc",
+  "cyan": "#5ecfa9",
+  "white": "#dcd4c7",
+  "brightBlack": "#c8c1b7",
+  "brightRed": "#e7b6ac",
+  "brightGreen": "#b6dd8e",
+  "brightYellow": "#ddc78e",
+  "brightBlue": "#aec3e7",
+  "brightPurple": "#e7aee7",
+  "brightCyan": "#8eddc3",
+  "brightWhite": "#e7e1d8",
+  "background": "#281809",
+  "foreground": "#f8ead5",
+  "cursorColor": "#cfaf5e",
+  "selectionBackground": "#8ba9dd"
+}

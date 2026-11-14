@@ -1,0 +1,23 @@
+{
+  "name": "Tideglass",
+  "black": "#23343d",
+  "red": "#e58e8e",
+  "green": "#91c6a2",
+  "yellow": "#d9bd83",
+  "blue": "#91a9e8",
+  "purple": "#c4a1d9",
+  "cyan": "#7bc5c3",
+  "white": "#c5d4d5",
+  "brightBlack": "#7e969d",
+  "brightRed": "#f5adaa",
+  "brightGreen": "#b1ddb8",
+  "brightYellow": "#f0d6a1",
+  "brightBlue": "#b0c3ff",
+  "brightPurple": "#dcc0ed",
+  "brightCyan": "#a0dfd8",
+  "brightWhite": "#f0f6f2",
+  "background": "#101e26",
+  "foreground": "#dce8e6",
+  "cursorColor": "#7bc5c3",
+  "selectionBackground": "#304d5a"
+}

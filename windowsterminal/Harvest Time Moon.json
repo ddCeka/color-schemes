@@ -1,0 +1,23 @@
+{
+  "name": "Harvest Time Moon",
+  "black": "#aea294",
+  "red": "#d79477",
+  "green": "#a0cf5e",
+  "yellow": "#cfad5e",
+  "blue": "#86a5db",
+  "purple": "#db87d4",
+  "cyan": "#5ecfb8",
+  "white": "#dcd4c7",
+  "brightBlack": "#c6beb4",
+  "brightRed": "#e3b4a0",
+  "brightGreen": "#bddd8e",
+  "brightYellow": "#ddc68e",
+  "brightBlue": "#aac0e6",
+  "brightPurple": "#e6abe1",
+  "brightCyan": "#8eddcd",
+  "brightWhite": "#e7e1d8",
+  "background": "#17142b",
+  "foreground": "#f8ead5",
+  "cursorColor": "#cfad5e",
+  "selectionBackground": "#86a5db"
+}

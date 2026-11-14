@@ -1,0 +1,23 @@
+{
+  "name": "Lumina Ember Light",
+  "black": "#372b1e",
+  "red": "#811d1d",
+  "green": "#437329",
+  "yellow": "#a06116",
+  "blue": "#256b99",
+  "purple": "#96437b",
+  "cyan": "#007285",
+  "white": "#7a6c5e",
+  "brightBlack": "#716657",
+  "brightRed": "#5c1d1b",
+  "brightGreen": "#355d20",
+  "brightYellow": "#874e01",
+  "brightBlue": "#005785",
+  "brightPurple": "#783763",
+  "brightCyan": "#005c6c",
+  "brightWhite": "#9a8b7c",
+  "background": "#f9f4ea",
+  "foreground": "#372b1e",
+  "cursorColor": "#372b1e",
+  "selectionBackground": "#e6bba2"
+}

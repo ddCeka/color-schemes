@@ -1,0 +1,23 @@
+{
+  "name": "Zacess Yellow on Black",
+  "black": "#a3a3a3",
+  "red": "#ffa79b",
+  "green": "#01dc3f",
+  "yellow": "#edb618",
+  "blue": "#90c1ff",
+  "purple": "#fd9cf8",
+  "cyan": "#1fd3d3",
+  "white": "#d9d9d9",
+  "brightBlack": "#c8c8c8",
+  "brightRed": "#ffd5ce",
+  "brightGreen": "#3cff5d",
+  "brightYellow": "#ffda8a",
+  "brightBlue": "#c9e0ff",
+  "brightPurple": "#ffd0fa",
+  "brightCyan": "#00f7f5",
+  "brightWhite": "#ffffff",
+  "background": "#000000",
+  "foreground": "#ffeb3b",
+  "cursorColor": "#ffeb3b",
+  "selectionBackground": "#09bcc4"
+}
