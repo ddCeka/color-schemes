@@ -1,0 +1,50 @@
+name: Generate Color Schemes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 6"
+  push:
+    branches:
+      - master
+    paths:
+      - "schemes/**"
+      - "yaml/**"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-themes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y libjpeg-dev
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run gen.py to generate themes
+        run: |
+          cd tools
+          python gen.py
+
+      - name: Run iterm2terminal.py to generate Terminal.app color schemes
+        run: |
+          cd tools
+          python iterm2terminal.py ../schemes ../terminal
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Auto-generate color schemes"
