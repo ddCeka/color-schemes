@@ -1,0 +1,23 @@
+{
+  "name": "Złotnica Aksamit (Dark)",
+  "black": "#52625a",
+  "red": "#f08080",
+  "green": "#8fd496",
+  "yellow": "#e8c35e",
+  "blue": "#8db4f0",
+  "purple": "#da9ad8",
+  "cyan": "#74d0d0",
+  "white": "#98a49d",
+  "brightBlack": "#89978f",
+  "brightRed": "#f08080",
+  "brightGreen": "#8fd496",
+  "brightYellow": "#e8c35e",
+  "brightBlue": "#8db4f0",
+  "brightPurple": "#da9ad8",
+  "brightCyan": "#74d0d0",
+  "brightWhite": "#c6cbc4",
+  "background": "#10201a",
+  "foreground": "#c6cbc4",
+  "cursorColor": "#e8c35e",
+  "selectionBackground": "#24403a"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tamil Olai (Light)",
+  "black": "#a69c80",
+  "red": "#9c1f4a",
+  "green": "#366a14",
+  "yellow": "#7a5800",
+  "blue": "#1f55a8",
+  "purple": "#8e2a90",
+  "cyan": "#0b6672",
+  "white": "#56524a",
+  "brightBlack": "#5f5847",
+  "brightRed": "#9c1f4a",
+  "brightGreen": "#366a14",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#8e2a90",
+  "brightCyan": "#0b6672",
+  "brightWhite": "#1f1c16",
+  "background": "#f3ebd2",
+  "foreground": "#1f1c16",
+  "cursorColor": "#0b6672",
+  "selectionBackground": "#cfe3e2"
+}

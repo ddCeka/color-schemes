@@ -1,0 +1,23 @@
+{
+  "name": "Rajasthan Blue City (Dark)",
+  "black": "#5a6f85",
+  "red": "#f2707a",
+  "green": "#8fd47a",
+  "yellow": "#f2c75c",
+  "blue": "#6cc0ff",
+  "purple": "#e486d9",
+  "cyan": "#4fd6c8",
+  "white": "#b7b9b6",
+  "brightBlack": "#939ea7",
+  "brightRed": "#f2707a",
+  "brightGreen": "#8fd47a",
+  "brightYellow": "#f2c75c",
+  "brightBlue": "#6cc0ff",
+  "brightPurple": "#e486d9",
+  "brightCyan": "#4fd6c8",
+  "brightWhite": "#f2eadf",
+  "background": "#13273c",
+  "foreground": "#f2eadf",
+  "cursorColor": "#ff9f45",
+  "selectionBackground": "#2a4458"
+}

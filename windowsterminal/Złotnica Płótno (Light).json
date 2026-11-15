@@ -1,0 +1,23 @@
+{
+  "name": "Złotnica Płótno (Light)",
+  "black": "#aba796",
+  "red": "#a82a2a",
+  "green": "#2f6b2f",
+  "yellow": "#7a5800",
+  "blue": "#1f55a8",
+  "purple": "#8e2a80",
+  "cyan": "#0a6a70",
+  "white": "#5e5e58",
+  "brightBlack": "#5e5d57",
+  "brightRed": "#a82a2a",
+  "brightGreen": "#2f6b2f",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#8e2a80",
+  "brightCyan": "#0a6a70",
+  "brightWhite": "#383b38",
+  "background": "#f6f2e6",
+  "foreground": "#383b38",
+  "cursorColor": "#896300",
+  "selectionBackground": "#e5ddc0"
+}

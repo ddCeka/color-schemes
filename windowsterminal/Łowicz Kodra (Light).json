@@ -1,0 +1,23 @@
+{
+  "name": "Łowicz Kodra (Light)",
+  "black": "#a9a49b",
+  "red": "#a3201e",
+  "green": "#2d6b26",
+  "yellow": "#7a5800",
+  "blue": "#1f55a8",
+  "purple": "#8e2a90",
+  "cyan": "#0a6a78",
+  "white": "#55524c",
+  "brightBlack": "#635f59",
+  "brightRed": "#a3201e",
+  "brightGreen": "#2d6b26",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#8e2a90",
+  "brightCyan": "#0a6a78",
+  "brightWhite": "#1e1d1b",
+  "background": "#f8f7f3",
+  "foreground": "#1e1d1b",
+  "cursorColor": "#ae4a00",
+  "selectionBackground": "#f3ddc6"
+}

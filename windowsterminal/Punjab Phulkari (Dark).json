@@ -1,0 +1,23 @@
+{
+  "name": "Punjab Phulkari (Dark)",
+  "black": "#64554e",
+  "red": "#ff7a72",
+  "green": "#9ed46a",
+  "yellow": "#f7c548",
+  "blue": "#7fa8f5",
+  "purple": "#f08ac8",
+  "cyan": "#4fd0c8",
+  "white": "#bbb0a8",
+  "brightBlack": "#9d8e86",
+  "brightRed": "#ff7a72",
+  "brightGreen": "#9ed46a",
+  "brightYellow": "#f7c548",
+  "brightBlue": "#7fa8f5",
+  "brightPurple": "#f08ac8",
+  "brightCyan": "#4fd0c8",
+  "brightWhite": "#f4ebdd",
+  "background": "#241612",
+  "foreground": "#f4ebdd",
+  "cursorColor": "#f7c548",
+  "selectionBackground": "#4a3324"
+}

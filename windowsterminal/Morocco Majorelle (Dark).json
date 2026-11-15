@@ -1,0 +1,23 @@
+{
+  "name": "Morocco Majorelle (Dark)",
+  "black": "#6471bc",
+  "red": "#ff7a8a",
+  "green": "#86e0a0",
+  "yellow": "#f6c945",
+  "blue": "#8fb0ff",
+  "purple": "#ff8fbf",
+  "cyan": "#4fe0d4",
+  "white": "#bfc6ee",
+  "brightBlack": "#9aa4e0",
+  "brightRed": "#ff7a8a",
+  "brightGreen": "#86e0a0",
+  "brightYellow": "#f6c945",
+  "brightBlue": "#8fb0ff",
+  "brightPurple": "#ff8fbf",
+  "brightCyan": "#4fe0d4",
+  "brightWhite": "#f4eedd",
+  "background": "#161f66",
+  "foreground": "#f4eedd",
+  "cursorColor": "#f6c945",
+  "selectionBackground": "#2c3b92"
+}

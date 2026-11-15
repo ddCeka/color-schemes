@@ -1,0 +1,23 @@
+{
+  "name": "Edo Cha (Dark)",
+  "black": "#57514c",
+  "red": "#e66e68",
+  "green": "#7aba7c",
+  "yellow": "#dcba5c",
+  "blue": "#73abda",
+  "purple": "#c88ec3",
+  "cyan": "#6cbec2",
+  "white": "#97918a",
+  "brightBlack": "#938d86",
+  "brightRed": "#e66e68",
+  "brightGreen": "#7aba7c",
+  "brightYellow": "#dcba5c",
+  "brightBlue": "#73abda",
+  "brightPurple": "#c88ec3",
+  "brightCyan": "#6cbec2",
+  "brightWhite": "#c2bdb5",
+  "background": "#191410",
+  "foreground": "#c2bdb5",
+  "cursorColor": "#e8605b",
+  "selectionBackground": "#2a3741"
+}

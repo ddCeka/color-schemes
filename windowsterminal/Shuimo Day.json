@@ -1,0 +1,23 @@
+{
+  "name": "Shuimo Day",
+  "black": "#adaba4",
+  "red": "#b03a2e",
+  "green": "#476444",
+  "yellow": "#7b5f1b",
+  "blue": "#3d5f7a",
+  "purple": "#6e4e6b",
+  "cyan": "#2c6565",
+  "white": "#6b6963",
+  "brightBlack": "#615f59",
+  "brightRed": "#b03a2e",
+  "brightGreen": "#476444",
+  "brightYellow": "#7b5f1b",
+  "brightBlue": "#3d5f7a",
+  "brightPurple": "#6e4e6b",
+  "brightCyan": "#2c6565",
+  "brightWhite": "#2a2a28",
+  "background": "#f4f3ef",
+  "foreground": "#2a2a28",
+  "cursorColor": "#b03a2e",
+  "selectionBackground": "#d9dee3"
+}

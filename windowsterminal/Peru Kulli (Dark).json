@@ -1,0 +1,23 @@
+{
+  "name": "Peru Kulli (Dark)",
+  "black": "#916a97",
+  "red": "#ff7e76",
+  "green": "#93e195",
+  "yellow": "#f4d660",
+  "blue": "#80bdfb",
+  "purple": "#f19fd6",
+  "cyan": "#73dfdf",
+  "white": "#d7c8da",
+  "brightBlack": "#caabcf",
+  "brightRed": "#ff7e76",
+  "brightGreen": "#93e195",
+  "brightYellow": "#f4d660",
+  "brightBlue": "#80bdfb",
+  "brightPurple": "#f19fd6",
+  "brightCyan": "#73dfdf",
+  "brightWhite": "#f8ece0",
+  "background": "#480f50",
+  "foreground": "#f8ece0",
+  "cursorColor": "#f4d660",
+  "selectionBackground": "#374573"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Holi Day",
+  "black": "#ada6b1",
+  "red": "#d0213a",
+  "green": "#2e7a32",
+  "yellow": "#855800",
+  "blue": "#1a5fb4",
+  "purple": "#c2185b",
+  "cyan": "#00756a",
+  "white": "#5b5560",
+  "brightBlack": "#675f6b",
+  "brightRed": "#d0213a",
+  "brightGreen": "#2e7a32",
+  "brightYellow": "#855800",
+  "brightBlue": "#1a5fb4",
+  "brightPurple": "#c2185b",
+  "brightCyan": "#00756a",
+  "brightWhite": "#2a2430",
+  "background": "#fbf9f5",
+  "foreground": "#2a2430",
+  "cursorColor": "#e0600f",
+  "selectionBackground": "#f4d3e2"
+}

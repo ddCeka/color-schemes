@@ -1,0 +1,23 @@
+{
+  "name": "Mughal Wasli (Light)",
+  "black": "#a99e96",
+  "red": "#b0301e",
+  "green": "#1e6e55",
+  "yellow": "#7a5800",
+  "blue": "#2b3ba6",
+  "purple": "#992d82",
+  "cyan": "#136a8f",
+  "white": "#57505a",
+  "brightBlack": "#5f5666",
+  "brightRed": "#b0301e",
+  "brightGreen": "#1e6e55",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#2b3ba6",
+  "brightPurple": "#992d82",
+  "brightCyan": "#136a8f",
+  "brightWhite": "#221f2b",
+  "background": "#f7f1e3",
+  "foreground": "#221f2b",
+  "cursorColor": "#2b3ba6",
+  "selectionBackground": "#d3d9f2"
+}

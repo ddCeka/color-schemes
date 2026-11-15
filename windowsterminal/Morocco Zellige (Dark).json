@@ -1,0 +1,23 @@
+{
+  "name": "Morocco Zellige (Dark)",
+  "black": "#5e9a89",
+  "red": "#ffa48c",
+  "green": "#9eeba8",
+  "yellow": "#ffe27a",
+  "blue": "#93b8ff",
+  "purple": "#f5a3d0",
+  "cyan": "#6ee3da",
+  "white": "#b5d8cd",
+  "brightBlack": "#97cdbe",
+  "brightRed": "#ffa48c",
+  "brightGreen": "#9eeba8",
+  "brightYellow": "#ffe27a",
+  "brightBlue": "#93b8ff",
+  "brightPurple": "#f5a3d0",
+  "brightCyan": "#6ee3da",
+  "brightWhite": "#f1f0e3",
+  "background": "#0a4036",
+  "foreground": "#f1f0e3",
+  "cursorColor": "#ffe27a",
+  "selectionBackground": "#35466e"
+}

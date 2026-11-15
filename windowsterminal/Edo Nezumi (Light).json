@@ -1,0 +1,23 @@
+{
+  "name": "Edo Nezumi (Light)",
+  "black": "#a9a49e",
+  "red": "#ac3031",
+  "green": "#2f6d34",
+  "yellow": "#7d5e07",
+  "blue": "#23588a",
+  "purple": "#793974",
+  "cyan": "#086a73",
+  "white": "#68625c",
+  "brightBlack": "#625c56",
+  "brightRed": "#ac3031",
+  "brightGreen": "#2f6d34",
+  "brightYellow": "#7d5e07",
+  "brightBlue": "#23588a",
+  "brightPurple": "#793974",
+  "brightCyan": "#086a73",
+  "brightWhite": "#3a342f",
+  "background": "#f2f0ec",
+  "foreground": "#3a342f",
+  "cursorColor": "#ba2b2e",
+  "selectionBackground": "#c9dae7"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ainu Kaparamip (Dark)",
+  "black": "#545b74",
+  "red": "#f07e6e",
+  "green": "#8cc878",
+  "yellow": "#eecc5a",
+  "blue": "#82aef0",
+  "purple": "#de8ad0",
+  "cyan": "#6cccd0",
+  "white": "#9aa0b6",
+  "brightBlack": "#959bb0",
+  "brightRed": "#f07e6e",
+  "brightGreen": "#8cc878",
+  "brightYellow": "#eecc5a",
+  "brightBlue": "#82aef0",
+  "brightPurple": "#de8ad0",
+  "brightCyan": "#6cccd0",
+  "brightWhite": "#b0b4c0",
+  "background": "#141a2d",
+  "foreground": "#b0b4c0",
+  "cursorColor": "#ee705e",
+  "selectionBackground": "#2e3a5e"
+}

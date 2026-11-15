@@ -1,0 +1,23 @@
+{
+  "name": "Maya Corte (Dark)",
+  "black": "#535973",
+  "red": "#f07e70",
+  "green": "#8cd47e",
+  "yellow": "#f2cf5a",
+  "blue": "#7cb4f2",
+  "purple": "#e08ada",
+  "cyan": "#6dcfd8",
+  "white": "#9a9fb8",
+  "brightBlack": "#888eaa",
+  "brightRed": "#f07e70",
+  "brightGreen": "#8cd47e",
+  "brightYellow": "#f2cf5a",
+  "brightBlue": "#7cb4f2",
+  "brightPurple": "#e08ada",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#c8cada",
+  "background": "#13162a",
+  "foreground": "#c8cada",
+  "cursorColor": "#f0cf5c",
+  "selectionBackground": "#2c3760"
+}

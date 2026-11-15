@@ -1,0 +1,23 @@
+{
+  "name": "Wuxing Night",
+  "black": "#5c5f6b",
+  "red": "#e8705f",
+  "green": "#8cc88e",
+  "yellow": "#e8be52",
+  "blue": "#7ea8f2",
+  "purple": "#c59be3",
+  "cyan": "#45bfc8",
+  "white": "#b9b09e",
+  "brightBlack": "#979284",
+  "brightRed": "#e8705f",
+  "brightGreen": "#8cc88e",
+  "brightYellow": "#e8be52",
+  "brightBlue": "#7ea8f2",
+  "brightPurple": "#c59be3",
+  "brightCyan": "#45bfc8",
+  "brightWhite": "#e6dcc8",
+  "background": "#171b26",
+  "foreground": "#e6dcc8",
+  "cursorColor": "#d9a93f",
+  "selectionBackground": "#2d3754"
+}

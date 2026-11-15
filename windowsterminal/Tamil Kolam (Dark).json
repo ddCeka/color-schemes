@@ -1,0 +1,23 @@
+{
+  "name": "Tamil Kolam (Dark)",
+  "black": "#59615f",
+  "red": "#ee6e80",
+  "green": "#9cd86a",
+  "yellow": "#ebc35a",
+  "blue": "#7aa8f5",
+  "purple": "#d98ae0",
+  "cyan": "#45c6d6",
+  "white": "#b4b8b4",
+  "brightBlack": "#8d9592",
+  "brightRed": "#ee6e80",
+  "brightGreen": "#9cd86a",
+  "brightYellow": "#ebc35a",
+  "brightBlue": "#7aa8f5",
+  "brightPurple": "#d98ae0",
+  "brightCyan": "#45c6d6",
+  "brightWhite": "#f2efe6",
+  "background": "#181c1c",
+  "foreground": "#f2efe6",
+  "cursorColor": "#ebc35a",
+  "selectionBackground": "#2a3e44"
+}

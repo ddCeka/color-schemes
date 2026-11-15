@@ -1,0 +1,23 @@
+{
+  "name": "Zalipie Sadza (Dark)",
+  "black": "#5e5a54",
+  "red": "#f07e70",
+  "green": "#95d27e",
+  "yellow": "#ead06c",
+  "blue": "#7fb0f5",
+  "purple": "#d795d8",
+  "cyan": "#6dcfd8",
+  "white": "#b3aea6",
+  "brightBlack": "#979188",
+  "brightRed": "#f07e70",
+  "brightGreen": "#95d27e",
+  "brightYellow": "#ead06c",
+  "brightBlue": "#7fb0f5",
+  "brightPurple": "#d795d8",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#e6e2da",
+  "background": "#1c1b1a",
+  "foreground": "#e6e2da",
+  "cursorColor": "#e6e2da",
+  "selectionBackground": "#2d3954"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Danqing Ink (Dark)",
+  "black": "#575c57",
+  "red": "#f0643f",
+  "green": "#a3b47e",
+  "yellow": "#e9b949",
+  "blue": "#4fb3c9",
+  "purple": "#cfa3c0",
+  "cyan": "#7fc4b6",
+  "white": "#a8a699",
+  "brightBlack": "#91958b",
+  "brightRed": "#f0643f",
+  "brightGreen": "#a3b47e",
+  "brightYellow": "#e9b949",
+  "brightBlue": "#4fb3c9",
+  "brightPurple": "#cfa3c0",
+  "brightCyan": "#7fc4b6",
+  "brightWhite": "#dcd6c8",
+  "background": "#1b1d1b",
+  "foreground": "#dcd6c8",
+  "cursorColor": "#f0643f",
+  "selectionBackground": "#2e3f45"
+}

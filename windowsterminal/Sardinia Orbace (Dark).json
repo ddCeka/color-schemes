@@ -1,0 +1,23 @@
+{
+  "name": "Sardinia Orbace (Dark)",
+  "black": "#5e5852",
+  "red": "#f07e70",
+  "green": "#95d27e",
+  "yellow": "#f0b23e",
+  "blue": "#7fb0f5",
+  "purple": "#d795d8",
+  "cyan": "#6dcfd8",
+  "white": "#ada69b",
+  "brightBlack": "#988f83",
+  "brightRed": "#f07e70",
+  "brightGreen": "#95d27e",
+  "brightYellow": "#f0b23e",
+  "brightBlue": "#7fb0f5",
+  "brightPurple": "#d795d8",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#d3ccc1",
+  "background": "#1a1817",
+  "foreground": "#d3ccc1",
+  "cursorColor": "#f0b23e",
+  "selectionBackground": "#2c3854"
+}

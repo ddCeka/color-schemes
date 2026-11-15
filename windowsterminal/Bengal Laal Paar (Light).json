@@ -1,0 +1,23 @@
+{
+  "name": "Bengal Laal Paar (Light)",
+  "black": "#aba4a6",
+  "red": "#c0202a",
+  "green": "#3c7a22",
+  "yellow": "#7e5a00",
+  "blue": "#2847b0",
+  "purple": "#a0287e",
+  "cyan": "#00786a",
+  "white": "#57525a",
+  "brightBlack": "#686064",
+  "brightRed": "#c0202a",
+  "brightGreen": "#3c7a22",
+  "brightYellow": "#7e5a00",
+  "brightBlue": "#2847b0",
+  "brightPurple": "#a0287e",
+  "brightCyan": "#00786a",
+  "brightWhite": "#201c1e",
+  "background": "#fbfaf7",
+  "foreground": "#201c1e",
+  "cursorColor": "#c0202a",
+  "selectionBackground": "#f6d5d2"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sardinia Camisa (Light)",
+  "black": "#aba498",
+  "red": "#a3201e",
+  "green": "#2d6b26",
+  "yellow": "#7a5800",
+  "blue": "#1f55a8",
+  "purple": "#8e2a90",
+  "cyan": "#0a6a78",
+  "white": "#57514a",
+  "brightBlack": "#645d54",
+  "brightRed": "#a3201e",
+  "brightGreen": "#2d6b26",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#8e2a90",
+  "brightCyan": "#0a6a78",
+  "brightWhite": "#2b2724",
+  "background": "#f7f4ec",
+  "foreground": "#2b2724",
+  "cursorColor": "#8a5600",
+  "selectionBackground": "#d6e0f2"
+}

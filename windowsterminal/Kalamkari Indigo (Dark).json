@@ -1,0 +1,23 @@
+{
+  "name": "Kalamkari Indigo (Dark)",
+  "black": "#565f7e",
+  "red": "#ee7a63",
+  "green": "#a9c47f",
+  "yellow": "#eac46a",
+  "blue": "#93aaeb",
+  "purple": "#de8fb0",
+  "cyan": "#6ec6b6",
+  "white": "#adaaa6",
+  "brightBlack": "#8d93a8",
+  "brightRed": "#ee7a63",
+  "brightGreen": "#a9c47f",
+  "brightYellow": "#eac46a",
+  "brightBlue": "#93aaeb",
+  "brightPurple": "#de8fb0",
+  "brightCyan": "#6ec6b6",
+  "brightWhite": "#ede3cf",
+  "background": "#141c34",
+  "foreground": "#ede3cf",
+  "cursorColor": "#eab84a",
+  "selectionBackground": "#2c3b5e"
+}

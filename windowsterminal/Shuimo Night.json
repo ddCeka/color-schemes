@@ -1,0 +1,23 @@
+{
+  "name": "Shuimo Night",
+  "black": "#55544f",
+  "red": "#d75e51",
+  "green": "#8aa886",
+  "yellow": "#c9a24e",
+  "blue": "#8faac2",
+  "purple": "#b491b0",
+  "cyan": "#71abaa",
+  "white": "#8e8c86",
+  "brightBlack": "#918f89",
+  "brightRed": "#d75e51",
+  "brightGreen": "#8aa886",
+  "brightYellow": "#c9a24e",
+  "brightBlue": "#8faac2",
+  "brightPurple": "#b491b0",
+  "brightCyan": "#71abaa",
+  "brightWhite": "#c8c6c0",
+  "background": "#171716",
+  "foreground": "#c8c6c0",
+  "cursorColor": "#d75e51",
+  "selectionBackground": "#2c333a"
+}

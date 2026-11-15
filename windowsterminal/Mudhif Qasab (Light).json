@@ -1,0 +1,23 @@
+{
+  "name": "Mudhif Qasab (Light)",
+  "black": "#ada180",
+  "red": "#a3201e",
+  "green": "#2d6b26",
+  "yellow": "#7a5800",
+  "blue": "#1f55a8",
+  "purple": "#8e2a90",
+  "cyan": "#0a6a78",
+  "white": "#665c44",
+  "brightBlack": "#665a40",
+  "brightRed": "#a3201e",
+  "brightGreen": "#2d6b26",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#8e2a90",
+  "brightCyan": "#0a6a78",
+  "brightWhite": "#463c28",
+  "background": "#f4eedc",
+  "foreground": "#463c28",
+  "cursorColor": "#7a5600",
+  "selectionBackground": "#e2d4a8"
+}

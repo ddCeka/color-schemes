@@ -1,0 +1,23 @@
+{
+  "name": "Rajasthan Pink City (Light)",
+  "black": "#ab9594",
+  "red": "#b3203f",
+  "green": "#337012",
+  "yellow": "#7f5800",
+  "blue": "#1d62b0",
+  "purple": "#a3207f",
+  "cyan": "#056f64",
+  "white": "#5c5458",
+  "brightBlack": "#615256",
+  "brightRed": "#b3203f",
+  "brightGreen": "#337012",
+  "brightYellow": "#7f5800",
+  "brightBlue": "#1d62b0",
+  "brightPurple": "#a3207f",
+  "brightCyan": "#056f64",
+  "brightWhite": "#2a2026",
+  "background": "#f6e6df",
+  "foreground": "#2a2026",
+  "cursorColor": "#aa4300",
+  "selectionBackground": "#cfe0f2"
+}

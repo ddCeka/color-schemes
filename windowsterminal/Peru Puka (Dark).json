@@ -1,0 +1,23 @@
+{
+  "name": "Peru Puka (Dark)",
+  "black": "#a0667d",
+  "red": "#ff9e96",
+  "green": "#97ed9a",
+  "yellow": "#f4e382",
+  "blue": "#92c9ff",
+  "purple": "#e8b6f3",
+  "cyan": "#7ae6e5",
+  "white": "#e9d0d8",
+  "brightBlack": "#d8a8b9",
+  "brightRed": "#ff9e96",
+  "brightGreen": "#97ed9a",
+  "brightYellow": "#f4e382",
+  "brightBlue": "#92c9ff",
+  "brightPurple": "#e8b6f3",
+  "brightCyan": "#7ae6e5",
+  "brightWhite": "#f8ece0",
+  "background": "#720041",
+  "foreground": "#f8ece0",
+  "cursorColor": "#97ed9a",
+  "selectionBackground": "#414f7f"
+}

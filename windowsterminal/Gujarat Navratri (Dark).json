@@ -1,0 +1,23 @@
+{
+  "name": "Gujarat Navratri (Dark)",
+  "black": "#5e5768",
+  "red": "#ff7068",
+  "green": "#7fdc78",
+  "yellow": "#f5cf4a",
+  "blue": "#6fb8f5",
+  "purple": "#f28ac0",
+  "cyan": "#4fd1c9",
+  "white": "#b8b0bc",
+  "brightBlack": "#938b9c",
+  "brightRed": "#ff7068",
+  "brightGreen": "#7fdc78",
+  "brightYellow": "#f5cf4a",
+  "brightBlue": "#6fb8f5",
+  "brightPurple": "#f28ac0",
+  "brightCyan": "#4fd1c9",
+  "brightWhite": "#f2ece4",
+  "background": "#18141f",
+  "foreground": "#f2ece4",
+  "cursorColor": "#e8f0f5",
+  "selectionBackground": "#382e4c"
+}

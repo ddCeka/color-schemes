@@ -1,0 +1,23 @@
+{
+  "name": "Aizome Kamenozoki (Light)",
+  "black": "#97a7b3",
+  "red": "#ac3031",
+  "green": "#246e3a",
+  "yellow": "#7d5e07",
+  "blue": "#255691",
+  "purple": "#793974",
+  "cyan": "#086a73",
+  "white": "#596b7c",
+  "brightBlack": "#4b5e73",
+  "brightRed": "#ac3031",
+  "brightGreen": "#246e3a",
+  "brightYellow": "#7d5e07",
+  "brightBlue": "#255691",
+  "brightPurple": "#793974",
+  "brightCyan": "#086a73",
+  "brightWhite": "#213651",
+  "background": "#e7f2f7",
+  "foreground": "#213651",
+  "cursorColor": "#111f37",
+  "selectionBackground": "#bdd8ec"
+}

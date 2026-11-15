@@ -1,0 +1,23 @@
+{
+  "name": "Punjab Basant (Light)",
+  "black": "#a1a285",
+  "red": "#b0202e",
+  "green": "#3a7018",
+  "yellow": "#7a5200",
+  "blue": "#1f55a8",
+  "purple": "#a3207a",
+  "cyan": "#00756e",
+  "white": "#55564a",
+  "brightBlack": "#5b5f4a",
+  "brightRed": "#b0202e",
+  "brightGreen": "#3a7018",
+  "brightYellow": "#7a5200",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#a3207a",
+  "brightCyan": "#00756e",
+  "brightWhite": "#22241a",
+  "background": "#f8f1d2",
+  "foreground": "#22241a",
+  "cursorColor": "#b04600",
+  "selectionBackground": "#d6e4f5"
+}

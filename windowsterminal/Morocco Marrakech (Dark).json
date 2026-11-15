@@ -1,0 +1,23 @@
+{
+  "name": "Morocco Marrakech (Dark)",
+  "black": "#9a6c5a",
+  "red": "#ffa0a0",
+  "green": "#a6e6a0",
+  "yellow": "#ffd84d",
+  "blue": "#8fc6ff",
+  "purple": "#f5a3c0",
+  "cyan": "#5fddd2",
+  "white": "#d8bfb0",
+  "brightBlack": "#d0a593",
+  "brightRed": "#ffa0a0",
+  "brightGreen": "#a6e6a0",
+  "brightYellow": "#ffd84d",
+  "brightBlue": "#8fc6ff",
+  "brightPurple": "#f5a3c0",
+  "brightCyan": "#5fddd2",
+  "brightWhite": "#f7edde",
+  "background": "#4f1d14",
+  "foreground": "#f7edde",
+  "cursorColor": "#ffd84d",
+  "selectionBackground": "#374a50"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kalaallisuut Qernertoq (Dark)",
+  "black": "#4c545e",
+  "red": "#f07e7e",
+  "green": "#8cc878",
+  "yellow": "#eecc5a",
+  "blue": "#82aef0",
+  "purple": "#de8ad0",
+  "cyan": "#6cccd0",
+  "white": "#959da7",
+  "brightBlack": "#8c939c",
+  "brightRed": "#f07e7e",
+  "brightGreen": "#8cc878",
+  "brightYellow": "#eecc5a",
+  "brightBlue": "#82aef0",
+  "brightPurple": "#de8ad0",
+  "brightCyan": "#6cccd0",
+  "brightWhite": "#a3aab3",
+  "background": "#13171c",
+  "foreground": "#a3aab3",
+  "cursorColor": "#f2f3f5",
+  "selectionBackground": "#2c3646"
+}

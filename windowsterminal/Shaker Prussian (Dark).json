@@ -1,0 +1,23 @@
+{
+  "name": "Shaker Prussian (Dark)",
+  "black": "#4e5c68",
+  "red": "#f07e6e",
+  "green": "#8cc878",
+  "yellow": "#eecc5a",
+  "blue": "#82aef0",
+  "purple": "#de8ad0",
+  "cyan": "#6cccd0",
+  "white": "#98a2aa",
+  "brightBlack": "#909aa2",
+  "brightRed": "#f07e6e",
+  "brightGreen": "#8cc878",
+  "brightYellow": "#eecc5a",
+  "brightBlue": "#82aef0",
+  "brightPurple": "#de8ad0",
+  "brightCyan": "#6cccd0",
+  "brightWhite": "#b8bec2",
+  "background": "#0f1c28",
+  "foreground": "#b8bec2",
+  "cursorColor": "#eeeae0",
+  "selectionBackground": "#2a4258"
+}

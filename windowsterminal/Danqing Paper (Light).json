@@ -1,0 +1,23 @@
+{
+  "name": "Danqing Paper (Light)",
+  "black": "#a59c88",
+  "red": "#b32d1e",
+  "green": "#4a6526",
+  "yellow": "#7e5500",
+  "blue": "#0f6680",
+  "purple": "#7a3f6a",
+  "cyan": "#0e6a62",
+  "white": "#55534d",
+  "brightBlack": "#58564e",
+  "brightRed": "#b32d1e",
+  "brightGreen": "#4a6526",
+  "brightYellow": "#7e5500",
+  "brightBlue": "#0f6680",
+  "brightPurple": "#7a3f6a",
+  "brightCyan": "#0e6a62",
+  "brightWhite": "#26282a",
+  "background": "#ece5d4",
+  "foreground": "#26282a",
+  "cursorColor": "#b32d1e",
+  "selectionBackground": "#c9dce0"
+}

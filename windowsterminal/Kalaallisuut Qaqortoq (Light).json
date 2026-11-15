@@ -1,0 +1,23 @@
+{
+  "name": "Kalaallisuut Qaqortoq (Light)",
+  "black": "#acada8",
+  "red": "#a3201e",
+  "green": "#2d6b26",
+  "yellow": "#7a5800",
+  "blue": "#1f55a8",
+  "purple": "#8e2a90",
+  "cyan": "#0a6a78",
+  "white": "#5c6066",
+  "brightBlack": "#5a5e64",
+  "brightRed": "#a3201e",
+  "brightGreen": "#2d6b26",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#8e2a90",
+  "brightCyan": "#0a6a78",
+  "brightWhite": "#43474e",
+  "background": "#f3f3f0",
+  "foreground": "#43474e",
+  "cursorColor": "#b0222c",
+  "selectionBackground": "#d4dcea"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bengal Baluchari (Dark)",
+  "black": "#695262",
+  "red": "#ff6b5e",
+  "green": "#a6d17e",
+  "yellow": "#f2c94c",
+  "blue": "#7ea6ff",
+  "purple": "#e58ad0",
+  "cyan": "#5ccfbe",
+  "white": "#b8aeb2",
+  "brightBlack": "#9d8d98",
+  "brightRed": "#ff6b5e",
+  "brightGreen": "#a6d17e",
+  "brightYellow": "#f2c94c",
+  "brightBlue": "#7ea6ff",
+  "brightPurple": "#e58ad0",
+  "brightCyan": "#5ccfbe",
+  "brightWhite": "#f2e8e0",
+  "background": "#2a1220",
+  "foreground": "#f2e8e0",
+  "cursorColor": "#ff9a3c",
+  "selectionBackground": "#4a2a42"
+}

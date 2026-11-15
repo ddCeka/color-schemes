@@ -1,0 +1,23 @@
+{
+  "name": "Maramureș Zadie (Dark)",
+  "black": "#56524c",
+  "red": "#f07e6e",
+  "green": "#8cc878",
+  "yellow": "#eecc5a",
+  "blue": "#82aef0",
+  "purple": "#de8ad0",
+  "cyan": "#6cccd0",
+  "white": "#9f988e",
+  "brightBlack": "#958f85",
+  "brightRed": "#f07e6e",
+  "brightGreen": "#8cc878",
+  "brightYellow": "#eecc5a",
+  "brightBlue": "#82aef0",
+  "brightPurple": "#de8ad0",
+  "brightCyan": "#6cccd0",
+  "brightWhite": "#c2bcb0",
+  "background": "#141312",
+  "foreground": "#c2bcb0",
+  "cursorColor": "#ebaa4c",
+  "selectionBackground": "#38322c"
+}

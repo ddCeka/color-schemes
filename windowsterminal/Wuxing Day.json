@@ -1,0 +1,23 @@
+{
+  "name": "Wuxing Day",
+  "black": "#ada694",
+  "red": "#b0362b",
+  "green": "#2a7244",
+  "yellow": "#7a5200",
+  "blue": "#2456b4",
+  "purple": "#7b3fa6",
+  "cyan": "#0a727e",
+  "white": "#5a5a5a",
+  "brightBlack": "#605c4e",
+  "brightRed": "#b0362b",
+  "brightGreen": "#2a7244",
+  "brightYellow": "#7a5200",
+  "brightBlue": "#2456b4",
+  "brightPurple": "#7b3fa6",
+  "brightCyan": "#0a727e",
+  "brightWhite": "#2b3040",
+  "background": "#f6f0e1",
+  "foreground": "#2b3040",
+  "cursorColor": "#8b5f01",
+  "selectionBackground": "#d3dbee"
+}

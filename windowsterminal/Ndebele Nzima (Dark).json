@@ -1,0 +1,23 @@
+{
+  "name": "Ndebele Nzima (Dark)",
+  "black": "#565550",
+  "red": "#f07e70",
+  "green": "#8cd47e",
+  "yellow": "#f2cf5a",
+  "blue": "#7cb4f2",
+  "purple": "#e08ada",
+  "cyan": "#6dcfd8",
+  "white": "#a19f97",
+  "brightBlack": "#908e86",
+  "brightRed": "#f07e70",
+  "brightGreen": "#8cd47e",
+  "brightYellow": "#f2cf5a",
+  "brightBlue": "#7cb4f2",
+  "brightPurple": "#e08ada",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#bdbbb3",
+  "background": "#161615",
+  "foreground": "#bdbbb3",
+  "cursorColor": "#f07a68",
+  "selectionBackground": "#2c3a4a"
+}

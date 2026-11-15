@@ -1,0 +1,23 @@
+{
+  "name": "Hmong Batik (Dark)",
+  "black": "#525a72",
+  "red": "#f07e80",
+  "green": "#98d47a",
+  "yellow": "#f2d152",
+  "blue": "#86aef5",
+  "purple": "#e08ada",
+  "cyan": "#6dcfd8",
+  "white": "#9aa2b8",
+  "brightBlack": "#878fa6",
+  "brightRed": "#f07e80",
+  "brightGreen": "#98d47a",
+  "brightYellow": "#f2d152",
+  "brightBlue": "#86aef5",
+  "brightPurple": "#e08ada",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#c6cad4",
+  "background": "#111522",
+  "foreground": "#c6cad4",
+  "cursorColor": "#ff85c2",
+  "selectionBackground": "#283454"
+}

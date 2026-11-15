@@ -1,0 +1,23 @@
+{
+  "name": "Ainu Attus (Light)",
+  "black": "#a8a08e",
+  "red": "#a3201e",
+  "green": "#2d6b26",
+  "yellow": "#7a5800",
+  "blue": "#1f55a8",
+  "purple": "#8e2a90",
+  "cyan": "#0a6a78",
+  "white": "#55576a",
+  "brightBlack": "#57575d",
+  "brightRed": "#a3201e",
+  "brightGreen": "#2d6b26",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1f55a8",
+  "brightPurple": "#8e2a90",
+  "brightCyan": "#0a6a78",
+  "brightWhite": "#34384a",
+  "background": "#eee6d4",
+  "foreground": "#34384a",
+  "cursorColor": "#b0281c",
+  "selectionBackground": "#d0d5e4"
+}

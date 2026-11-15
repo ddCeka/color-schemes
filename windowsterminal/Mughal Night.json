@@ -1,0 +1,23 @@
+{
+  "name": "Mughal Night",
+  "black": "#5e584d",
+  "red": "#f2785c",
+  "green": "#7ccba6",
+  "yellow": "#e8c25e",
+  "blue": "#8e9cfa",
+  "purple": "#e592b4",
+  "cyan": "#7cc6e6",
+  "white": "#b3ab9c",
+  "brightBlack": "#999182",
+  "brightRed": "#f2785c",
+  "brightGreen": "#7ccba6",
+  "brightYellow": "#e8c25e",
+  "brightBlue": "#8e9cfa",
+  "brightPurple": "#e592b4",
+  "brightCyan": "#7cc6e6",
+  "brightWhite": "#ede4d0",
+  "background": "#1d1a16",
+  "foreground": "#ede4d0",
+  "cursorColor": "#e8c25e",
+  "selectionBackground": "#2e3352"
+}

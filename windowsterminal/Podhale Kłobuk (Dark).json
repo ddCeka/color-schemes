@@ -1,0 +1,23 @@
+{
+  "name": "Podhale Kłobuk (Dark)",
+  "black": "#5c5650",
+  "red": "#f07e70",
+  "green": "#95d27e",
+  "yellow": "#e2b95e",
+  "blue": "#7fb0f5",
+  "purple": "#d795d8",
+  "cyan": "#6dcfd8",
+  "white": "#b2aaa0",
+  "brightBlack": "#968e82",
+  "brightRed": "#f07e70",
+  "brightGreen": "#95d27e",
+  "brightYellow": "#e2b95e",
+  "brightBlue": "#7fb0f5",
+  "brightPurple": "#d795d8",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#ece5d8",
+  "background": "#161413",
+  "foreground": "#ece5d8",
+  "cursorColor": "#f05c74",
+  "selectionBackground": "#3e2228"
+}

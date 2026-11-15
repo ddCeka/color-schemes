@@ -1,0 +1,23 @@
+{
+  "name": "Mudhif Qir (Dark)",
+  "black": "#554d3e",
+  "red": "#f07e6e",
+  "green": "#8cc878",
+  "yellow": "#eecc5a",
+  "blue": "#82aef0",
+  "purple": "#de8ad0",
+  "cyan": "#6cccd0",
+  "white": "#a09478",
+  "brightBlack": "#978c72",
+  "brightRed": "#f07e6e",
+  "brightGreen": "#8cc878",
+  "brightYellow": "#eecc5a",
+  "brightBlue": "#82aef0",
+  "brightPurple": "#de8ad0",
+  "brightCyan": "#6cccd0",
+  "brightWhite": "#c2b596",
+  "background": "#17140e",
+  "foreground": "#c2b596",
+  "cursorColor": "#e2b44a",
+  "selectionBackground": "#3a3220"
+}

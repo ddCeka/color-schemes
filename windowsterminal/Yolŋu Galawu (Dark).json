@@ -1,0 +1,23 @@
+{
+  "name": "Yolŋu Galawu (Dark)",
+  "black": "#5e5348",
+  "red": "#f07e6e",
+  "green": "#8cc878",
+  "yellow": "#f0cc5a",
+  "blue": "#82aef0",
+  "purple": "#de8ad0",
+  "cyan": "#6cccd0",
+  "white": "#a89c8e",
+  "brightBlack": "#9b8e7e",
+  "brightRed": "#f07e6e",
+  "brightGreen": "#8cc878",
+  "brightYellow": "#f0cc5a",
+  "brightBlue": "#82aef0",
+  "brightPurple": "#de8ad0",
+  "brightCyan": "#6cccd0",
+  "brightWhite": "#ac9f90",
+  "background": "#1f1712",
+  "foreground": "#ac9f90",
+  "cursorColor": "#ead072",
+  "selectionBackground": "#493326"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Gujarat Rann (Light)",
+  "black": "#a2abb2",
+  "red": "#b0202a",
+  "green": "#2e7a1e",
+  "yellow": "#7a5800",
+  "blue": "#1a5fa8",
+  "purple": "#b0206a",
+  "cyan": "#00756e",
+  "white": "#525a62",
+  "brightBlack": "#56616b",
+  "brightRed": "#b0202a",
+  "brightGreen": "#2e7a1e",
+  "brightYellow": "#7a5800",
+  "brightBlue": "#1a5fa8",
+  "brightPurple": "#b0206a",
+  "brightCyan": "#00756e",
+  "brightWhite": "#1e2226",
+  "background": "#f5f7f8",
+  "foreground": "#1e2226",
+  "cursorColor": "#b0202a",
+  "selectionBackground": "#f7dce8"
+}

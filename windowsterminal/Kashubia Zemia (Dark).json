@@ -1,0 +1,23 @@
+{
+  "name": "Kashubia Zemia (Dark)",
+  "black": "#625a50",
+  "red": "#f07e70",
+  "green": "#95d27e",
+  "yellow": "#e6c35c",
+  "blue": "#7fb0f5",
+  "purple": "#d795d8",
+  "cyan": "#6dcfd8",
+  "white": "#b8b0a4",
+  "brightBlack": "#9a9184",
+  "brightRed": "#f07e70",
+  "brightGreen": "#95d27e",
+  "brightYellow": "#e6c35c",
+  "brightBlue": "#7fb0f5",
+  "brightPurple": "#d795d8",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#eee8dc",
+  "background": "#1c1814",
+  "foreground": "#eee8dc",
+  "cursorColor": "#959fff",
+  "selectionBackground": "#263a52"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kalamkari Cotton (Light)",
+  "black": "#a69879",
+  "red": "#a3301f",
+  "green": "#46672a",
+  "yellow": "#745200",
+  "blue": "#27408a",
+  "purple": "#892c5a",
+  "cyan": "#1d6b63",
+  "white": "#595145",
+  "brightBlack": "#5f5545",
+  "brightRed": "#a3301f",
+  "brightGreen": "#46672a",
+  "brightYellow": "#745200",
+  "brightBlue": "#27408a",
+  "brightPurple": "#892c5a",
+  "brightCyan": "#1d6b63",
+  "brightWhite": "#2a2218",
+  "background": "#f0e6cc",
+  "foreground": "#2a2218",
+  "cursorColor": "#a3301f",
+  "selectionBackground": "#cbd5ea"
+}

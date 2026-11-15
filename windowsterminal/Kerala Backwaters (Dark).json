@@ -1,0 +1,23 @@
+{
+  "name": "Kerala Backwaters (Dark)",
+  "black": "#55655b",
+  "red": "#f27560",
+  "green": "#a8d67a",
+  "yellow": "#edcb5e",
+  "blue": "#6cb8f5",
+  "purple": "#ec8eba",
+  "cyan": "#4fd1cc",
+  "white": "#b0b6ae",
+  "brightBlack": "#8b988c",
+  "brightRed": "#f27560",
+  "brightGreen": "#a8d67a",
+  "brightYellow": "#edcb5e",
+  "brightBlue": "#6cb8f5",
+  "brightPurple": "#ec8eba",
+  "brightCyan": "#4fd1cc",
+  "brightWhite": "#f0eadb",
+  "background": "#0f2219",
+  "foreground": "#f0eadb",
+  "cursorColor": "#e3b84a",
+  "selectionBackground": "#26443a"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wixárika Haramara (Dark)",
+  "black": "#56545a",
+  "red": "#f07e70",
+  "green": "#8cd47e",
+  "yellow": "#f2cf5a",
+  "blue": "#7cb4f2",
+  "purple": "#e08ada",
+  "cyan": "#6dcfd8",
+  "white": "#a09ea8",
+  "brightBlack": "#8c8a92",
+  "brightRed": "#f07e70",
+  "brightGreen": "#8cd47e",
+  "brightYellow": "#f2cf5a",
+  "brightBlue": "#7cb4f2",
+  "brightPurple": "#e08ada",
+  "brightCyan": "#6dcfd8",
+  "brightWhite": "#c4c2c8",
+  "background": "#121113",
+  "foreground": "#c4c2c8",
+  "cursorColor": "#f7d23e",
+  "selectionBackground": "#263650"
+}

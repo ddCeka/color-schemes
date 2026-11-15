@@ -1,0 +1,23 @@
+{
+  "name": "Aizome Kachi (Dark)",
+  "black": "#445160",
+  "red": "#e66e68",
+  "green": "#73bb83",
+  "yellow": "#dcba5c",
+  "blue": "#73a9e1",
+  "purple": "#cc8bc5",
+  "cyan": "#60bfc4",
+  "white": "#788fa7",
+  "brightBlack": "#7d8fa2",
+  "brightRed": "#e66e68",
+  "brightGreen": "#73bb83",
+  "brightYellow": "#dcba5c",
+  "brightBlue": "#73a9e1",
+  "brightPurple": "#cc8bc5",
+  "brightCyan": "#60bfc4",
+  "brightWhite": "#a3bed6",
+  "background": "#0b1421",
+  "foreground": "#a3bed6",
+  "cursorColor": "#e9f2f7",
+  "selectionBackground": "#1f344e"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kerala Kasavu (Light)",
+  "black": "#a5a797",
+  "red": "#b0203a",
+  "green": "#3a791e",
+  "yellow": "#7a5a00",
+  "blue": "#1060a8",
+  "purple": "#9c3a8a",
+  "cyan": "#007876",
+  "white": "#565c56",
+  "brightBlack": "#5a615a",
+  "brightRed": "#b0203a",
+  "brightGreen": "#3a791e",
+  "brightYellow": "#7a5a00",
+  "brightBlue": "#1060a8",
+  "brightPurple": "#9c3a8a",
+  "brightCyan": "#007876",
+  "brightWhite": "#1f2420",
+  "background": "#f9f5e8",
+  "foreground": "#1f2420",
+  "cursorColor": "#b0203a",
+  "selectionBackground": "#d4e8da"
+}

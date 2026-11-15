@@ -1,0 +1,23 @@
+{
+  "name": "Holi Night",
+  "black": "#5f5a5e",
+  "red": "#ff5468",
+  "green": "#93d38c",
+  "yellow": "#f5c842",
+  "blue": "#72aaf6",
+  "purple": "#f2669c",
+  "cyan": "#4fd0c2",
+  "white": "#b6aeb7",
+  "brightBlack": "#98919c",
+  "brightRed": "#ff5468",
+  "brightGreen": "#93d38c",
+  "brightYellow": "#f5c842",
+  "brightBlue": "#72aaf6",
+  "brightPurple": "#f2669c",
+  "brightCyan": "#4fd0c2",
+  "brightWhite": "#ece4da",
+  "background": "#1d1c1b",
+  "foreground": "#ece4da",
+  "cursorColor": "#ff8a3d",
+  "selectionBackground": "#3b2d46"
+}
