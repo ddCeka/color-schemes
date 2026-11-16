@@ -1,0 +1,23 @@
+{
+  "name": "🇺🇸 U.S. Air Force",
+  "black": "#0a1a3d",
+  "red": "#f1a5af",
+  "green": "#bcdaac",
+  "yellow": "#f0d18e",
+  "blue": "#a8c8f2",
+  "purple": "#d0b7ec",
+  "cyan": "#a3dad9",
+  "white": "#d9e1eb",
+  "brightBlack": "#a1b7d8",
+  "brightRed": "#ffc6cf",
+  "brightGreen": "#dbefc9",
+  "brightYellow": "#ffe6af",
+  "brightBlue": "#cde3ff",
+  "brightPurple": "#eddcff",
+  "brightCyan": "#c9f1ee",
+  "brightWhite": "#ffffff",
+  "background": "#00308f",
+  "foreground": "#eef4fd",
+  "cursorColor": "#a3dad9",
+  "selectionBackground": "#ffffff"
+}
