@@ -74,7 +74,6 @@ jobs:
         run: |
           # Dynamically discover all directories, excluding screenshots and backgrounds
           mv schemes iterm2
-          mv terminal terminal.app
           ALL_DIRS=($(find . -maxdepth 1 -type d -name '[a-zA-Z]*' ! -name 'screenshots' ! -name 'backgrounds' ! -name '.*' ! -name 'tools' ! -name 'gh-pages' | sed 's|./||' | sort))
           mkdir -p releases
 
@@ -149,36 +148,15 @@ jobs:
           Choose the archive for your specific terminal emulator:
 
           ### Terminal Emulators
-          - **alacritty** - Alacritty (https://alacritty.org/)
-          - **electerm** - Electerm (https://electerm.html5beta.com/)
-          - **foot** - Foot (https://codeberg.org/dnkl/foot)
           - **ghostty** - Ghostty (https://ghostty.org/)
           - **iterm2** - iTerm2 (https://iterm2.com/)
           - **kitty** - Kitty (https://sw.kovidgoyal.net/kitty/)
-          - **konsole** - KDE Konsole (https://konsole.kde.org/)
-          - **lxterminal** - LXTerminal (https://lxde.org/)
-          - **mobaxterm** - MobaXterm (https://mobaxterm.mobatek.net/)
-          - **pantheon-terminal** - Pantheon Terminal (https://elementary.io/)
-          - **putty** - PuTTY (https://www.putty.org/)
-          - **rio** - Rio (https://rioterm.com/)
-          - **royalts** - RoyalTS (https://royalts.com/ts/)
-          - **terminal.app** - macOS Terminal.app (https://support.apple.com/guide/terminal)
-          - **terminator** - Terminator (https://gnome-terminator.org/)
           - **termux** - Termux (https://termux.com/)
-          - **tilda** - Tilda (https://github.com/lanoxx/tilda)
-          - **wayst** - Wayst (https://github.com/91861/wayst)
-          - **wezterm** - WezTerm (https://wezterm.org/)
           - **windowsterminal** - Windows Terminal (https://github.com/microsoft/terminal)
           - **xfce4terminal** - XFCE Terminal (https://docs.xfce.org/apps/xfce4-terminal/)
 
-          ### Console
-          - **freebsd_vt** - FreeBSD VT console color themes
-          - **linux_console** - Linux console color themes
-
           ### Shell
-          - **dynamic-colors** - OSC4 (shell) dynamic color themes
           - **generic** - Universal shell scripts using OSC escape codes
-          - **iterm-dynamic** - iTerm2 (shell) dynamic color themes
 
           ### Formats & Standards
           - **yaml** - YAML format color definitions
@@ -186,14 +164,7 @@ jobs:
           - **generic** - Universal shell scripts using OSC escape codes
 
           ### Applications & Tools
-          - **hexchat** - HexChat IRC client (https://hexchat.github.io/)
-          - **remmina** - Remmina Remote Desktop Client (https://remmina.org/)
-          - **termframe** - TermFrame (https://terminaltrove.com/termframe/)
-          - **vhs** - VHS (https://github.com/charmbracelet/vhs)
           - **vscode** - Visual Studio Code (https://code.visualstudio.com/)
-
-          ### Legacy
-          - **termite** - Termite (https://github.com/thestinger/termite)
 
           ## Complete Archive
 
