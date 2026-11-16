@@ -39,11 +39,6 @@ jobs:
           cd tools
           python gen.py
 
-      - name: Run iterm2terminal.py to generate Terminal.app color schemes
-        run: |
-          cd tools
-          python iterm2terminal.py ../schemes ../terminal
-
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
