@@ -1,0 +1,23 @@
+{
+  "name": "Comma Club",
+  "black": "#202d43",
+  "red": "#df9692",
+  "green": "#86c5a3",
+  "yellow": "#e6c58b",
+  "blue": "#9cb5df",
+  "purple": "#c3a3cf",
+  "cyan": "#8ecac6",
+  "white": "#cecbbf",
+  "brightBlack": "#8b97ac",
+  "brightRed": "#f4b4aa",
+  "brightGreen": "#abe0bb",
+  "brightYellow": "#f9deaa",
+  "brightBlue": "#bfd3f5",
+  "brightPurple": "#dec0e6",
+  "brightCyan": "#b6e8dd",
+  "brightWhite": "#fff6e5",
+  "background": "#101b30",
+  "foreground": "#ece4d2",
+  "cursorColor": "#e6c58b",
+  "selectionBackground": "#354764"
+}

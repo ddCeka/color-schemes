@@ -1,0 +1,23 @@
+{
+  "name": "1K Confetti",
+  "black": "#282735",
+  "red": "#f28e99",
+  "green": "#91d4a0",
+  "yellow": "#f2d66d",
+  "blue": "#8daffc",
+  "purple": "#dd9bed",
+  "cyan": "#68d4d0",
+  "white": "#ccc8dc",
+  "brightBlack": "#9390aa",
+  "brightRed": "#ffb2b7",
+  "brightGreen": "#b4f0bb",
+  "brightYellow": "#ffeb9e",
+  "brightBlue": "#b9ceff",
+  "brightPurple": "#f2c0fa",
+  "brightCyan": "#9af0e4",
+  "brightWhite": "#fff5fc",
+  "background": "#13131d",
+  "foreground": "#eae7f0",
+  "cursorColor": "#f2d66d",
+  "selectionBackground": "#483458"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Grand Terminal",
+  "black": "#3d2c40",
+  "red": "#d58d91",
+  "green": "#a6ba90",
+  "yellow": "#dcb67a",
+  "blue": "#9eafcb",
+  "purple": "#c89dba",
+  "cyan": "#8dbdb6",
+  "white": "#cdbfaf",
+  "brightBlack": "#a28e9f",
+  "brightRed": "#ecb0ac",
+  "brightGreen": "#c6d5aa",
+  "brightYellow": "#f1d19e",
+  "brightBlue": "#bfcde5",
+  "brightPurple": "#e2bdd3",
+  "brightCyan": "#b0dbce",
+  "brightWhite": "#fff0d9",
+  "background": "#291d2d",
+  "foreground": "#e9dfcf",
+  "cursorColor": "#dcb67a",
+  "selectionBackground": "#594454"
+}
