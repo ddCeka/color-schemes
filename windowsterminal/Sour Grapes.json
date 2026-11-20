@@ -1,0 +1,23 @@
+{
+  "name": "Sour Grapes",
+  "black": "#1f2027",
+  "red": "#f39ba1",
+  "green": "#b9db82",
+  "yellow": "#f3cc7b",
+  "blue": "#a8c5f4",
+  "purple": "#e1a6e5",
+  "cyan": "#8bd6c8",
+  "white": "#ded3c6",
+  "brightBlack": "#909194",
+  "brightRed": "#f6b6ba",
+  "brightGreen": "#cce5a4",
+  "brightYellow": "#f6da9f",
+  "brightBlue": "#bfd5f7",
+  "brightPurple": "#e9beec",
+  "brightCyan": "#aae1d7",
+  "brightWhite": "#e7dfd5",
+  "background": "#35203f",
+  "foreground": "#fff3d9",
+  "cursorColor": "#e1a6e5",
+  "selectionBackground": "#f3cc7b"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fleegle",
+  "black": "#211b20",
+  "red": "#812138",
+  "green": "#254e2b",
+  "yellow": "#683a0e",
+  "blue": "#163f82",
+  "purple": "#6e296e",
+  "cyan": "#064e50",
+  "white": "#4c3c32",
+  "brightBlack": "#181417",
+  "brightRed": "#5e1829",
+  "brightGreen": "#1b391f",
+  "brightYellow": "#4c2a0a",
+  "brightBlue": "#102e5f",
+  "brightPurple": "#501e50",
+  "brightCyan": "#04393a",
+  "brightWhite": "#372c25",
+  "background": "#d1b184",
+  "foreground": "#241a22",
+  "cursorColor": "#6e296e",
+  "selectionBackground": "#163f82"
+}

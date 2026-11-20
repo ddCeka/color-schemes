@@ -1,0 +1,23 @@
+{
+  "name": "Arabian Knights",
+  "black": "#211b20",
+  "red": "#8b243c",
+  "green": "#28552f",
+  "yellow": "#744110",
+  "blue": "#163f82",
+  "purple": "#6f296f",
+  "cyan": "#075557",
+  "white": "#4c3c32",
+  "brightBlack": "#181417",
+  "brightRed": "#651a2c",
+  "brightGreen": "#1d3e22",
+  "brightYellow": "#552f0c",
+  "brightBlue": "#102e5f",
+  "brightPurple": "#511e51",
+  "brightCyan": "#053e40",
+  "brightWhite": "#372c25",
+  "background": "#edcd9a",
+  "foreground": "#241a22",
+  "cursorColor": "#6f296f",
+  "selectionBackground": "#163f82"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Drooper",
+  "black": "#211b20",
+  "red": "#4d1421",
+  "green": "#162e1a",
+  "yellow": "#3d2208",
+  "blue": "#0e2852",
+  "purple": "#421842",
+  "cyan": "#042e2f",
+  "white": "#312721",
+  "brightBlack": "#181417",
+  "brightRed": "#380f18",
+  "brightGreen": "#102213",
+  "brightYellow": "#2d1906",
+  "brightBlue": "#0a1d3c",
+  "brightPurple": "#301230",
+  "brightCyan": "#032222",
+  "brightWhite": "#241c18",
+  "background": "#b68a48",
+  "foreground": "#241a22",
+  "cursorColor": "#421842",
+  "selectionBackground": "#0e2852"
+}

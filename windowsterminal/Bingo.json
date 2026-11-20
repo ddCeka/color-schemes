@@ -1,0 +1,23 @@
+{
+  "name": "Bingo",
+  "black": "#211b20",
+  "red": "#5a1727",
+  "green": "#1a361e",
+  "yellow": "#48290a",
+  "blue": "#102f60",
+  "purple": "#4d1d4d",
+  "cyan": "#043638",
+  "white": "#3a2e26",
+  "brightBlack": "#181417",
+  "brightRed": "#42111c",
+  "brightGreen": "#132716",
+  "brightYellow": "#351e07",
+  "brightBlue": "#0c2246",
+  "brightPurple": "#381538",
+  "brightCyan": "#032729",
+  "brightWhite": "#2a221c",
+  "background": "#e87e20",
+  "foreground": "#241a22",
+  "cursorColor": "#4d1d4d",
+  "selectionBackground": "#102f60"
+}

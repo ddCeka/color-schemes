@@ -1,0 +1,23 @@
+{
+  "name": "Atom Ant",
+  "black": "#1f2027",
+  "red": "#f8c6c9",
+  "green": "#bede8b",
+  "yellow": "#f3ce7f",
+  "blue": "#bed4f7",
+  "purple": "#ecc7ef",
+  "cyan": "#a1ded3",
+  "white": "#ded3c6",
+  "brightBlack": "#d2d2d4",
+  "brightRed": "#fad5d8",
+  "brightGreen": "#d0e7aa",
+  "brightYellow": "#f6dba2",
+  "brightBlue": "#d0e0f9",
+  "brightPurple": "#f1d6f3",
+  "brightCyan": "#bae7df",
+  "brightWhite": "#e7dfd5",
+  "background": "#a52b31",
+  "foreground": "#fff3d9",
+  "cursorColor": "#ecc7ef",
+  "selectionBackground": "#f3ce7f"
+}

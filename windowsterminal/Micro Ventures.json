@@ -1,0 +1,23 @@
+{
+  "name": "Micro Ventures",
+  "black": "#1f2027",
+  "red": "#f9c9cc",
+  "green": "#c0df8e",
+  "yellow": "#f4d084",
+  "blue": "#c1d5f7",
+  "purple": "#edc9ef",
+  "cyan": "#a6dfd5",
+  "white": "#ded3c6",
+  "brightBlack": "#d3d4d5",
+  "brightRed": "#fbd8da",
+  "brightGreen": "#d1e8ad",
+  "brightYellow": "#f7dda5",
+  "brightBlue": "#d2e0f9",
+  "brightPurple": "#f2d8f3",
+  "brightCyan": "#bee8e0",
+  "brightWhite": "#e7dfd5",
+  "background": "#46613d",
+  "foreground": "#fff3d9",
+  "cursorColor": "#edc9ef",
+  "selectionBackground": "#f4d084"
+}

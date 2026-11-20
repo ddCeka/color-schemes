@@ -1,0 +1,23 @@
+{
+  "name": "Penumbra Light (Semantic 6)",
+  "black": "#dfd9d0",
+  "red": "#bb626b",
+  "green": "#509259",
+  "yellow": "#958a1c",
+  "blue": "#0082b5",
+  "purple": "#9d68a2",
+  "cyan": "#008a87",
+  "white": "#2c2e31",
+  "brightBlack": "#b4b1ad",
+  "brightRed": "#bb626b",
+  "brightGreen": "#509259",
+  "brightYellow": "#958a1c",
+  "brightBlue": "#0082b5",
+  "brightPurple": "#9d68a2",
+  "brightCyan": "#008a87",
+  "brightWhite": "#202225",
+  "background": "#efe8dd",
+  "foreground": "#8b8b8b",
+  "cursorColor": "#2c2e31",
+  "selectionBackground": "#dfd9d0"
+}

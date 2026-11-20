@@ -1,0 +1,23 @@
+{
+  "name": "Penumbra Dark+",
+  "black": "#131418",
+  "red": "#cd6584",
+  "green": "#81a026",
+  "yellow": "#c68237",
+  "blue": "#008ccd",
+  "purple": "#917bbf",
+  "cyan": "#009989",
+  "white": "#efe8dd",
+  "brightBlack": "#5b5d62",
+  "brightRed": "#cd6584",
+  "brightGreen": "#81a026",
+  "brightYellow": "#c68237",
+  "brightBlue": "#008ccd",
+  "brightPurple": "#917bbf",
+  "brightCyan": "#009989",
+  "brightWhite": "#fff6e9",
+  "background": "#1d2024",
+  "foreground": "#999999",
+  "cursorColor": "#efe8dd",
+  "selectionBackground": "#292b30"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Snorky",
+  "black": "#211b20",
+  "red": "#761f33",
+  "green": "#224727",
+  "yellow": "#5f350d",
+  "blue": "#153d7e",
+  "purple": "#6e244a",
+  "cyan": "#064749",
+  "white": "#4c3c32",
+  "brightBlack": "#181417",
+  "brightRed": "#561725",
+  "brightGreen": "#19341c",
+  "brightYellow": "#452709",
+  "brightBlue": "#0f2d5c",
+  "brightPurple": "#501a36",
+  "brightCyan": "#043435",
+  "brightWhite": "#372c25",
+  "background": "#b0acb2",
+  "foreground": "#241a22",
+  "cursorColor": "#6e244a",
+  "selectionBackground": "#153d7e"
+}

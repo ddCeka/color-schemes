@@ -1,0 +1,23 @@
+{
+  "name": "The Hillbilly Bears",
+  "black": "#1f2027",
+  "red": "#f6b8bc",
+  "green": "#b9db82",
+  "yellow": "#f3cc7b",
+  "blue": "#aec9f5",
+  "purple": "#e7b9eb",
+  "cyan": "#8bd6c8",
+  "white": "#ded3c6",
+  "brightBlack": "#c8c8ca",
+  "brightRed": "#f8cbce",
+  "brightGreen": "#cce5a4",
+  "brightYellow": "#f6da9f",
+  "brightBlue": "#c4d8f8",
+  "brightPurple": "#edccf0",
+  "brightCyan": "#aae1d7",
+  "brightWhite": "#e7dfd5",
+  "background": "#315573",
+  "foreground": "#fff3d9",
+  "cursorColor": "#e7b9eb",
+  "selectionBackground": "#f3cc7b"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Banana Buggies",
+  "black": "#1f2027",
+  "red": "#f7bec1",
+  "green": "#b9db82",
+  "yellow": "#f3cc7b",
+  "blue": "#b5cef6",
+  "purple": "#e9bfec",
+  "cyan": "#94d9cc",
+  "white": "#ded3c6",
+  "brightBlack": "#cccccd",
+  "brightRed": "#f9d0d2",
+  "brightGreen": "#cce5a4",
+  "brightYellow": "#f6da9f",
+  "brightBlue": "#c9dbf8",
+  "brightPurple": "#efd0f1",
+  "brightCyan": "#b1e3da",
+  "brightWhite": "#e7dfd5",
+  "background": "#245b70",
+  "foreground": "#fff3d9",
+  "cursorColor": "#e9bfec",
+  "selectionBackground": "#f3cc7b"
+}

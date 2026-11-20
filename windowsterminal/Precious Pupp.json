@@ -1,0 +1,23 @@
+{
+  "name": "Precious Pupp",
+  "black": "#211b20",
+  "red": "#6c1c2f",
+  "green": "#1f4124",
+  "yellow": "#57310c",
+  "blue": "#143874",
+  "purple": "#5c225c",
+  "cyan": "#054143",
+  "white": "#46372e",
+  "brightBlack": "#181417",
+  "brightRed": "#4f1422",
+  "brightGreen": "#172f1a",
+  "brightYellow": "#402409",
+  "brightBlue": "#0f2955",
+  "brightPurple": "#431943",
+  "brightCyan": "#042f31",
+  "brightWhite": "#332822",
+  "background": "#c2a07b",
+  "foreground": "#241a22",
+  "cursorColor": "#5c225c",
+  "selectionBackground": "#143874"
+}
