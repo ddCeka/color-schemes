@@ -10,6 +10,9 @@ on:
         required: false
         default: ""
 
+permissions:
+  contents: write
+
 jobs:
   create-release:
     runs-on: ubuntu-latest
@@ -74,7 +77,7 @@ jobs:
         run: |
           # Dynamically discover all directories, excluding screenshots and backgrounds
           mv schemes iterm2
-          ALL_DIRS=($(find . -maxdepth 1 -type d -name '[a-zA-Z]*' ! -name 'screenshots' ! -name 'backgrounds' ! -name '.*' ! -name 'tools' ! -name 'gh-pages' | sed 's|./||' | sort))
+          ALL_DIRS=($(find . -maxdepth 1 -type d -name '[a-zA-Z]*' ! -name 'screenshots' ! -name 'backgrounds' ! -name 'images' ! -name '.*' ! -name 'tools' ! -name 'gh-pages' | sed 's|./||' | sort))
           mkdir -p releases
 
           # Create individual archives for each terminal emulator directory
@@ -160,7 +163,6 @@ jobs:
 
           ### Formats & Standards
           - **yaml** - YAML format color definitions
-          - **xrdb** - X11 resource database format
           - **generic** - Universal shell scripts using OSC escape codes
 
           ### Applications & Tools
